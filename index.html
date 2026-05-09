@@ -3,25 +3,51 @@
 <head>
   <meta charset="UTF-8">
   <title>Copy DOCX Text</title>
+
   <script src="https://unpkg.com/mammoth/mammoth.browser.min.js"></script>
+
   <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 30px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 120px);
+      gap: 15px;
+    }
+
     button {
-      display: block;
-      margin: 15px;
-      padding: 15px 25px;
+      padding: 15px;
       font-size: 22px;
       cursor: pointer;
+    }
+
+    #status {
+      margin-top: 25px;
+      font-size: 18px;
+      color: green;
     }
   </style>
 </head>
 <body>
 
-<h2>Click to copy text</h2>
+<h2></h2>
 
-<button onclick="copyDocx('1.docx')">1</button>
-<button onclick="copyDocx('2.docx')">2</button>
-<button onclick="copyDocx('3.docx')">3</button>
-<button onclick="copyDocx('4.docx')">4</button>
+<div class="grid">
+  <button onclick="copyDocx('1-1.docx')">1-1</button>
+  <button onclick="copyDocx('1-2.docx')">1-2</button>
+
+  <button onclick="copyDocx('2-1.docx')">2-1</button>
+  <button onclick="copyDocx('2-2.docx')">2-2</button>
+
+  <button onclick="copyDocx('3-1.docx')">3-1</button>
+  <button onclick="copyDocx('3-2.docx')">3-2</button>
+
+  <button onclick="copyDocx('4-1.docx')">4-1</button>
+  <button onclick="copyDocx('4-2.docx')">4-2</button>
+</div>
 
 <p id="status"></p>
 
@@ -31,6 +57,7 @@ async function copyDocx(filename) {
 
   try {
     const response = await fetch(filename);
+
     if (!response.ok) {
       throw new Error("File not found: " + filename);
     }
@@ -43,7 +70,7 @@ async function copyDocx(filename) {
 
     await navigator.clipboard.writeText(result.value);
 
-    status.textContent = filename + " text copied to clipboard.";
+    status.textContent = filename + " done.";
   } catch (error) {
     status.textContent = "Error: " + error.message;
   }
