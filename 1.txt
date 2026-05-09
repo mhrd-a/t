@@ -1,0 +1,362 @@
+Session 3: Economic theories of international business
+
+TitleAuthorsJournalYearBrief
+TitleAuthorsJournalYearBrief
+TitleAuthorsJournalYearBrief
+TitleAuthorsJournalYearBrief
+TitleAuthorsJournalYearBrief
+TitleAuthorsJournalYearBrief
+
+
+
+
+
+
+For question 1 (describe a session term):
+Considering the attached papers, give a definition for ?The future of international business? 
+
+
+TitleKnowledge of the Firm and the Evolutionary Theory of the Multinational CorporationAuthorsKogut and ZanderJournalYear1993Brief
+1. Introduction and Abstract
+* Main Argument: Firms are social communities specializing in creating and transferring knowledge. The multinational corporation (MNC) emerges due to its efficiency in transferring knowledge across borders.
+* Objective: The paper challenges the idea that MNCs arise primarily from market failure, instead proposing that they excel in knowledge transfer, especially tacit knowledge.
+* Empirical Focus: The study tests the claim by analyzing decisions on transferring manufacturing capabilities of Swedish innovations.
+2. Knowledge of the Firm and the Evolutionary Theory of the Multinational Corporation
+* Key Proposition: Firms are viewed as social communities, and their knowledge creation and recombination are central to their competitive advantage and growth.
+* Comparative Advantage: This view differs from the traditional economic perspective that focuses on market failure and internalization. Instead, the paper emphasizes the firm?s ability to transfer knowledge as a key determinant of its growth and international expansion.
+* Evolutionary Theory: Firms grow by recombining existing knowledge to expand into new markets. This process forms the foundation for an evolutionary theory of the MNC.
+3. Direct Investment and Knowledge as a Public Good
+* Historical Perspective: Theories of direct investment have long emphasized knowledge as a firm-specific advantage, with MNCs seen as mechanisms for transferring knowledge across borders.
+* Market Imperfections: Traditionally, it is argued that knowledge markets are imperfect because knowledge is a public good. Thus, MNCs internalize these markets to protect their advantages.
+* Critique: The authors argue that opportunism and market failure are not the primary reasons for MNCs? existence. Instead, firms are efficient in creating and transferring knowledge relative to other firms, not the market.
+4. Knowledge of the Firm and Technology Transfer
+* Knowledge Attributes: The paper identifies key attributes that influence the transferability of knowledge:
+o Codifiability: The extent to which knowledge can be documented.
+o Teachability: How easily knowledge can be taught.
+o Complexity: The number of critical interacting elements within the knowledge.
+* Empirical Study: The authors investigate how these knowledge attributes affect the decision to transfer technology within the firm (e.g., to wholly owned subsidiaries) or externally (e.g., by licensing to third parties).
+5. Empirical Investigation
+* Study Design:
+o Data from 35 Swedish innovations.
+o Analysis of 82 cases of international technology transfer.
+o Measured codifiability, teachability, complexity, and additional variables like the age of technology and the number of previous transfers.
+o Used logit regression to determine how these variables influence the choice between internal transfer (within the firm) or external transfer (licensing).
+* Results:
+o Tacitness and Internal Transfer: The more tacit (uncodified and complex) the knowledge, the more likely it will be transferred within the firm.
+o Negative Relationship: Codifiability and teachability are negatively related to internal transfer, meaning highly codifiable and teachable knowledge is more likely to be transferred externally.
+o Positive Relationship: Complexity is positively related to internal transfer, as complex technologies are harder to transfer externally.
+6. Ownership Advantages and Knowledge
+* Ownership Advantages: Firms are better at transferring complex, tacit knowledge within their boundaries, which is their key ownership advantage.
+* Platform for Expansion: Tacit knowledge is difficult to imitate, providing a platform for future growth and expansion into new markets.
+7. Conclusions
+* Evolutionary Perspective: The growth of the firm is based on the ability to create, transfer, and recombine knowledge. The multinational corporation's competitive edge comes from its ability to transfer tacit knowledge efficiently within the firm.
+* Limitations of Market Failure View: The market failure explanation for MNCs is limited. Instead, firms' ownership advantages in knowledge creation and transfer better explain their growth and boundaries.
+8. Theoretical Contributions
+* Challenge to Traditional Theories: The paper challenges the dominant market failure perspective, emphasizing the firm's role as a knowledge repository that specializes in the transfer and recombination of knowledge.
+* Evolutionary Theory Foundation: This perspective forms the foundation for an evolutionary theory of the multinational corporation, focusing on the firm?s internal knowledge processes rather than just market imperfections.
+9. Models and Diagrams
+* Logit Model: The paper uses logit regression to analyze the impact of codifiability, teachability, complexity, and other variables on technology transfer decisions.
+* Knowledge Transfer Diagram: While no specific diagram is explicitly described, the conceptual model implies a flow of knowledge within and across firm boundaries, with tacit knowledge being more efficiently transferred internally.
+10. Variables and Constructs
+* Main Variables:
+o Codifiability: Whether knowledge can be documented.
+o Teachability: How easily knowledge can be taught to others.
+o Complexity: The intricacy of the knowledge involved.
+o Age of Technology: The time since the technology was first developed.
+o Number of Previous Transfers: The frequency of past technology transfers.
+11. Appendices
+* Appendix A: Detailed construction of variables, including questionnaire items used to measure codifiability, teachability, and complexity.
+* Appendix B: A list of the Swedish innovations studied, along with their respective firms and the year of their introduction.
+
+
+
+
+TitleAgglomeration Economies, Firm Heterogeneity, and Foreign Direct Investment in the United StatesAuthorsJ. Myles Shaver and Fredrick FlyerJournalYear2000Brief
+Main Sections:
+1. Introduction:
+o Introduces the concept of agglomeration economies?positive externalities from the geographic clustering of industries.
+o Contrary to conventional views, the authors argue that while many firms benefit from agglomeration, others are disadvantaged due to firm heterogeneity.
+o Main thesis: Firms with superior resources (technology, human capital, etc.) avoid clustering, while firms with weaker resources are motivated to cluster.
+2. Agglomeration Economies, Location Choice, and Firm Heterogeneity:
+o Theoretical development of how agglomeration economies interact with firm heterogeneity.
+o Refers to classical agglomeration benefits like knowledge spillovers, specialized labor pools, and specialized suppliers (Marshall, 1920).
+o Argues that agglomeration might result in adverse selection, where less competitive firms choose to cluster, benefiting from the resources of stronger competitors.
+3. Consistency with Existing Literature:
+o Reviews the existing empirical and theoretical literature on agglomeration economies.
+o Discusses both the positive effects of agglomeration and studies that suggest it might not always lead to superior performance, aligning with the paper's thesis.
+o Cites works that support geographic clustering but explains the failure of large-sample studies to find universal superior performance in clustering.
+4. Empirical Analysis:
+o Presents empirical tests using foreign greenfield investments in U.S. manufacturing industries.
+o Tests include:
+* Location Choice: Firms cluster in states with more industry activity.
+* Survival Analysis: Firms that cluster have a lower likelihood of survival, suggesting adverse selection.
+o Larger firms, which contribute more to agglomeration economies, are less likely to cluster.
+o Data sources include the 1987 U.S. Census of Manufacturers, Commerce Department, and the Annual Survey of Manufacturers.
+5. Results and Discussion:
+o Firms entering states with higher agglomeration levels perform worse in survival terms.
+o Larger firms are less likely to agglomerate due to their contributions to competitors' gains from spillovers.
+o Empirical results confirm the adverse selection hypothesis: firms with weaker resources are more likely to cluster, while stronger firms avoid clustering to retain their competitive advantages.
+6. Conclusion:
+o Restates the adverse selection problem: weaker firms benefit from agglomerating, while stronger firms avoid it to prevent spillover advantages to competitors.
+o Calls for future research to examine firm-specific factors and their interaction with agglomeration economies.
+Key Arguments and Propositions:
+1. Firm Heterogeneity:
+o Firms differ in their resources (technology, human capital, suppliers, etc.), leading to varied net benefits from agglomeration economies.
+o Firms with better resources gain little from agglomeration but contribute significantly to their competitors through spillovers.
+o Firms with weaker resources benefit greatly from spillovers, thus are more likely to agglomerate.
+2. Adverse Selection in Agglomeration:
+o Firms with superior capabilities (better technologies, human capital, etc.) are less likely to cluster due to negative spillovers to competitors.
+o Weaker firms, on the other hand, are motivated to cluster to absorb these positive externalities.
+3. Survival Disadvantages of Clustering:
+o Empirical evidence shows that firms that cluster are more likely to experience lower survival rates, supporting the argument of adverse selection in agglomeration.
+4. Larger Firms Avoid Agglomeration:
+o Larger firms (in terms of investment and industry presence) contribute more to agglomeration externalities and thus are less likely to cluster, as it benefits their competitors more than themselves.
+Hypotheses/Propositions:
+1. H1: Many Firms Will Cluster:
+o Firms will cluster unless they possess superior resources that would contribute disproportionately to competitors.
+2. H2: Some Firms Will Choose Not to Cluster:
+o Firms with superior resources will avoid clustering due to the negative externality effects.
+3. H3: Firms that Cluster Will Benefit from Agglomeration:
+o Firms with weaker resources will benefit from agglomeration externalities but at the cost of survival.
+4. H4: Non-Clustering Firms Will Outperform Clustering Firms:
+o Firms with superior resources that avoid clustering will perform better in the long term, particularly in terms of survival.
+Models and Diagrams:
+* Agglomeration and Adverse Selection: The paper discusses a theoretical model where two firms, one with better technology and one with weaker technology, show different incentives regarding agglomeration. This model illustrates how firms with superior technologies avoid clustering to prevent knowledge spillovers to weaker competitors.
+* Conditional Logit Model: Used to empirically test the location choices of firms based on agglomeration levels, showing that clustering firms are more likely to fail, supporting the adverse selection hypothesis.
+Key Variables:
+1. Dependent Variables:
+o Location Choice: Whether firms cluster geographically based on agglomeration economies.
+o Survival: Whether firms survive after clustering or not.
+2. Independent Variables:
+o Agglomeration Measure (PROPORTION): Proportion of industry establishments in the state where the firm locates.
+o Control Variables: Industry growth, concentration ratios, relatedness of firms, previous U.S. experience, etc.
+TitleA Resource Perspective of Global Dynamic CapabilitiesAuthorsDavid A. Griffith and Michael G. HarveyJournalYear2001Brief
+1. Introduction
+* The paper examines global dynamic capabilities by integrating resource- and market-based views of firms.
+* Focuses on international business relationships and how resource-based and market-based assets influence power.
+* Hypothesis: Global dynamic capabilities enable firms to create hard-to-imitate combinations of resources, providing a competitive advantage in hyper-competitive markets.
+2. Conceptual Framework and Hypotheses Development
+* The framework explores resource-based assets (internal to the firm) and market-based assets (external to the firm) that impact power in global relationships.
+* Global Dynamic Capabilities:
+o Refers to combinations of resources on a global scale, providing a competitive advantage.
+o Two components:
+1. Global coherence while recognizing individual country differences.
+2. Adaptation, integration, and reconfiguration of internal and external assets.
+2.1 Resource-based View (RBV)
+* Focuses on firm-level resources (internal) that provide a competitive advantage.
+* Two key RBV assets for global dynamic capabilities:
+o Asset Specificity: Assets tied directly to a relationship with no alternative use.
+o Predictability: The ability to forecast exchange circumstances.
+* Hypotheses:
+o H1: The more an overseas distributor invests in assets specific to its relationship with a U.S. manufacturer, the more power it will have.
+o H2: The more predictable the relationship, the more power the distributor will have.
+2.2 Market-based View (MBV)
+* Focuses on external assets derived from interactions with the market.
+* Two key MBV assets:
+o Market Knowledge Gap: Differences in market knowledge between partners.
+o Type of Market: Whether the market is a seller's or buyer's market.
+* Hypotheses:
+o H3: Greater market knowledge gap increases the power of the overseas distributor.
+o H4: Distributors in seller?s markets will have more power than those in buyer?s markets.
+3. Method
+* Data collected from overseas distributors in Canada, Chile, Great Britain, and the Philippines, focusing on their relationship with U.S. manufacturers.
+* Sample included 130 usable responses from small and medium-sized distributors.
+* Measures included:
+o Power: Measured using a 12-item scale across six bases of social power (reward, coercive, legitimate, referent, expert, informational).
+o Asset specificity: Assessed through investment in equipment and facilities specific to the relationship.
+o Predictability: Measured using a two-item scale.
+o Market knowledge gap: Operationalized through Hofstede's cultural dimensions.
+o Type of market: Measured through a two-item scale evaluating market supply and demand.
+4. Analysis
+* Regression analysis was used to test the hypotheses.
+* Key findings:
+o H1 (Asset Specificity): Supported; distributors with more asset specificity have more power.
+o H2 (Predictability): Supported; more predictable relationships provide more power.
+o H3 (Market Knowledge Gap): Supported; a greater market knowledge gap increases distributor power.
+o H4 (Type of Market): Not supported; the type of market did not significantly influence power.
+* Table 1: Shows cultural characteristics and cultural distance index based on Hofstede's dimensions.
+* Table 2: Displays means, standard deviations, and correlations among key variables.
+* Table 3: Presents the results of the regression analysis.
+5. Key Diagrams
+* Figure 1: Illustrates the resource-based view (RBV) and market-based view (MBV) of global dynamic capabilities.
+o The diagram shows the relationship between internal (RBV) and external (MBV) assets, dynamic capabilities (action-orientation), and power (the foundation of dynamic capabilities).
+6. Implications and Conclusion
+* The study highlights the importance of integrating both internal and external assets to develop global dynamic capabilities.
+* Power in international relationships is driven by both resource-based (asset specificity, predictability) and market-based (market knowledge gap) assets.
+* Practical implications: Firms can leverage specific assets and predictable relationships to increase their power and achieve a competitive advantage.
+* Research implications: Future studies should expand the scope of relationships (e.g., different country combinations) and explore the outcomes of global dynamic capabilities (e.g., performance).
+7. Limitations
+* Limited to relationships between overseas distributors and their primary U.S. manufacturer.
+* Cross-industry variation and sample size may affect generalizability.
+
+
+
+
+
+
+TitleThe resource-based view and international businessAuthorsMike W. PengJournalYear2001Brief
+1. Introduction
+* Main Focus: The paper tracks the evolution of the resource-based view (RBV) of the firm within the international business (IB) literature.
+* Three Key Questions:
+1. How influential has the RBV become in IB?
+2. What is behind the diffusion of the RBV in IB?
+3. What is the current state-of-the-art of RBV research in IB?
+2. Mapping the Contributions of the RBV in IB
+* Citation-Based Approach: The paper uses a citation-based method to document the extent of RBV?s penetration in IB research. This is assessed by examining citations of seminal RBV papers like Barney (1991) and Wernerfelt (1984).
+* Key Findings:
+o A growing influence of RBV from 1991 to 2000.
+o A total of 61 key papers identified in top journals, showing significant growth in citations over time.
+o Contributions from a wide range of authors across different institutions worldwide.
+o Figure 1 and Table 1 are presented to illustrate the growth of RBV citations and the distribution of key contributions.
+3. The Diffusion of a Theoretical Innovation
+* RBV as an Innovation: The paper argues that RBV can be seen as a theoretical innovation due to its focus on firm-specific resources rather than industry-level factors.
+* Five Characteristics of Innovation That Explain RBV?s Diffusion (Rogers, 1983):
+1. Relative Advantage: RBV?s focus on firm-specific capabilities.
+2. Compatibility: Aligns well with both behavioral and economic theories.
+3. Simplicity: Easy to understand despite empirical complexities.
+4. Trialability: Can be applied in parallel with other perspectives.
+5. Observability: Widely visible in academic conferences and publications.
+* Key Driving Forces for Diffusion:
+o Innovators in IB are more likely to adopt new perspectives.
+o Increasing overlap between IB and strategy research.
+o Cross-disciplinary exchanges facilitated the spread of RBV.
+4. Organizing Framework of RBV in IB
+* The paper proposes an organizing framework based on firm size and international sophistication.
+o Key Areas of Focus:
+1. Multinational Corporation (MNC) Management
+2. Strategic Alliances
+3. Market Entries
+4. International Entrepreneurship
+o Emerging Markets Strategies are highlighted as an increasingly important area of research.
+5. MNC Management
+* Global Strategies: RBV extends traditional IB theories by specifying firm-specific resources needed to overcome liabilities of foreignness.
+* Subsidiary Capability Development: Subsidiaries develop their own capabilities, contributing to the firm?s overall competitive advantage.
+* Human Resource Management: Focus on the strategic role of top managers and the need for internationally experienced executives to drive global performance.
+6. Strategic Alliances
+* Core Proposition: RBV emphasizes the ability to learn from partners as a key resource.
+* Learning as a Competitive Advantage: Firms that learn from their partners can enhance performance. This is particularly relevant in alliances between competitors.
+* Challenges: Measuring learning is a significant empirical challenge.
+7. Market Entries
+* RBV vs. Transaction Cost Economics (TCE): RBV focuses on firm-specific resources, while TCE focuses on opportunism and transaction failures.
+* Dynamic Entry Process: RBV highlights a longitudinal approach to market entry, building on prior knowledge and resources.
+* Entry Modes and Performance: RBV links entry modes, like acquisitions, to firm performance in a more nuanced way than TCE.
+8. International Entrepreneurship
+* Challenge to Stage Models: RBV explains how SMEs can succeed internationally without going through traditional stages, by leveraging tacit knowledge and capabilities.
+* Inherent Advantages of SMEs: Smaller firms can be more agile in exploiting global opportunities.
+9. Emerging Markets Strategies
+* Key Focus: Strategies for MNCs, state-owned enterprises (SOEs), privatized firms, start-ups, and conglomerates in emerging markets.
+* MNCs: Need to confront higher liabilities of foreignness in emerging markets, which magnifies the importance of resources and local partnerships.
+* SOEs and Privatized Firms: Focus on developing capabilities and leveraging alliances to compete in transitioning economies.
+* Conglomerates: These firms often exploit institutional relatedness (links with dominant formal and informal institutions) as a key resource in emerging economies.
+10. Future Research Directions
+* Integration with Other Theories: Greater focus is needed on integrating RBV with other perspectives such as TCE and institutional theory.
+* Resource Rarity and Rent Appropriation: Future work needs to focus on how resources create value, especially in global settings.
+* Emerging Economies: More attention should be devoted to understanding how institutional contexts shape RBV in these markets.
+* Process and Implementation Issues: A call for more focus on understanding the processes involved in cross-border mergers and acquisitions, global learning, and resource integration.
+Key Diagrams and Models:
+* Figure 1: Shows the growth of RBV citations over time.
+* Figure 2: Presents the organizing framework for RBV in IB, showing four key areas based on firm size and international sophistication.
+
+
+
+TitleThe Evolutionary View of the MNE and the Future of Internalization TheoryAuthorsA. VerbekeJournalJournal of International Business StudiesYear2003Brieffocuses on integrating evolutionary theory into the analysis of Multinational Enterprises (MNEs) and critiques the traditional internalization theory.
+1. Introduction
+* Focus:
+o The paper critiques and builds on Kogut and Zander?s (1993) evolutionary view of the MNE.
+o It suggests how their perspective influences future studies of MNE behavior and extends internalization theory.
+o The author positions Kogut and Zander's work as a counter to Williamson?s Transaction Cost Economics (TCE) model and internalization theory.
+2. Main Contributions of Kogut and Zander?s Work
+* Three Critical Impacts:
+1. Encourages eclectic empirical analyses, combining TCE with broader competence-related variables.
+2. Challenges the reliance on opportunism in internalization theory.
+3. Opens a pathway for extending internalization theory to make it relevant to new fields in international business.
+3. Criticism of Traditional Internalization Theory
+* Traditional Focus: Internalization theory has typically focused on minimizing transaction costs in foreign entry decisions.
+* Kogut and Zander's Criticisms:
+1. Cost vs. Value: Traditional theory emphasizes cost minimization over value creation. They argue that value creation through knowledge transfer can be more important than just reducing costs.
+2. Opportunism: Traditional theory relies on both bounded rationality and opportunism to explain expansion, but Kogut and Zander argue that opportunism is often not relevant in explaining strategic choices.
+3. Transactional Focus: Internalization theory focuses on individual transactions rather than the contextual and cumulative effects of knowledge transfer.
+4. Kogut and Zander?s Evolutionary View
+* Key Elements:
+o Informed by behavioral theories (Cyert and March, 1963) and evolutionary economics (Nelson and Winter, 1982).
+o Knowledge Transfer: Knowledge transfer is viewed as cumulative and embedded in the firm?s routines and processes.
+o Combinative Capabilities: MNEs are superior at recombining internal and external knowledge, allowing them to create value that external market-based mechanisms cannot.
+5. Relevance of the Evolutionary View for Internalization Theory
+* Opportunism as a Constraint:
+o Verbeke argues that opportunism is a background issue, while economizing on bounded rationality is the key focus for firms.
+o In practical terms, the complexity of knowledge transfer, not opportunism, governs the need for specific governance structures.
+* New Propositions:
+o Internalization theory can be enriched by adopting more of an evolutionary perspective, focusing on learning and combinative capabilities rather than merely on transaction cost minimization.
+6. Empirical Evidence
+* Kogut and Zander (1993) examined 82 transactions involving knowledge transfer in innovative manufacturing technologies:
+o Results showed that firms preferred wholly owned subsidiaries for high-tacitness knowledge transfers.
+o This supports the argument that MNEs excel in creating platforms for future growth by managing tacit knowledge more effectively than alternative governance structures (e.g., joint ventures or licensing).
+7. Diagram: Bounded Rationality and Opportunism
+* Figure 1: This figure contrasts the Williamsonian focus on opportunism with Kogut and Zander?s emphasis on bounded rationality in decision-making.
+o Key Insight: Bounded rationality is central, while opportunism is seen as a constraint that can be managed through routines.
+8. Implications for Future Research
+* The paper suggests that internalization theory must evolve to:
+1. Incorporate learning processes, routines, and combinative capabilities.
+2. Move beyond opportunism as the central concern, especially in knowledge-intensive transactions.
+3. Focus more on the co-evolution of organizational routines and technological competences in MNEs.
+9. Conclusion
+* Kogut and Zander?s evolutionary approach offers an expanded framework for understanding MNE strategy, especially regarding knowledge transfer and the creation of value.
+* The future of internalization theory lies in a more eclectic approach, integrating the insights of evolutionary theory, competence-building, and bounded rationality economizing.
+
+
+
+
+
+
+TitleLocation and the Multinational Enterprise: A Neglected Factor?AuthorsJohn H. DunningJournalYear2009BriefThis paper positions location as a critical but often overlooked element in the strategies of MNEs, suggesting a rebalancing of the focus within the OLI paradigm
+1. Introduction
+* Purpose: The paper challenges the neglect of location as a significant factor in explaining multinational enterprise (MNE) activity, particularly in relation to the OLI (Ownership, Location, Internalization) paradigm.
+* Argument: Dunning argues against the overemphasis on internalization (I) in the OLI paradigm, suggesting location (L) plays a critical and dynamic role that is interdependent with ownership and internalization advantages.
+* Theories Discussed:
+o The OLI Paradigm: Ownership (O), Location (L), and Internalization (I) advantages.
+o Historical Context: The internalization approach's growing dominance since the 1970s and the need to reassess the role of location.
+2. Changing World Scenario for International Business Activity
+* Key Trends:
+1. Intellectual Capital as a Key Asset: The shift from tangible to intangible assets (e.g., knowledge, intellectual capital) as drivers of value in MNEs.
+* Example: The rise in market value of firms tied to intellectual capital rather than physical assets.
+2. Globalization of Economic Activity: Advances in technology and reductions in trade barriers facilitate cross-border activities.
+* Evidence: Growth in world trade outpacing global output; a significant proportion of international trade now happens within MNEs.
+3. Alliance Capitalism: Firms increasingly engage in cooperative agreements, alliances, and partnerships to share knowledge and resources.
+* Example: The growing number of cross-border alliances and mergers.
+* Hypotheses:
+o Intellectual capital and knowledge-intensive activities are reshaping locational choices for MNEs.
+o The growing significance of knowledge clusters and agglomerations.
+3. The Changing Geography of MNE Activity
+* FDI Inflows Shift: A significant redistribution of foreign direct investment (FDI) since the 1970s, with developed countries receiving less compared to emerging markets, especially in Asia.
+* Emerging Markets: Developing economies (e.g., China, India) have become prominent destinations for FDI due to their growing markets and improving infrastructure.
+* Regional Trends: Within regions, certain areas have seen concentrated inflows of FDI due to factors like resource availability, economic reforms, and market growth.
+4. Micro-Economics of the Location of MNE Activity
+* Locational Preferences:
+o The paper emphasizes the microeconomic factors that drive location decisions for MNEs, including cost-related and strategic asset-seeking factors.
+o Strategic Asset-Seeking FDI: MNEs increasingly look for knowledge and technology-intensive locations, shifting FDI towards regions that offer intellectual and human capital.
+* Variables Affecting FDI Location:
+1. Availability of skilled labor
+2. Infrastructure quality
+3. Local networks and clusters of firms
+4. Government incentives and policy frameworks
+o Example: Studies show that regions with knowledge spillovers and agglomeration effects tend to attract higher-order investments like R&D.
+5. Propositions and Hypotheses
+* Main Propositions:
+1. Location is a Strategic Asset: Firms consider location as an asset when making investment decisions.
+2. Agglomeration Economies: Concentrations of firms in specific locations lead to external economies, which benefit MNEs.
+3. Evolution of Location Factors: Over time, factors influencing location decisions evolve, driven by changes in technology, transportation, and global markets.
+6. Macro-Economic Aspects of Changing International Allocation
+* Global Economic Changes: The restructuring of international production due to globalization has impacted MNE strategies, shifting the allocation of value-added activities across countries.
+* Economic Integration: The integration of MNEs into global value chains results in a concentration of high-value activities (e.g., R&D, innovation) in developed regions, while lower-value activities may be distributed more globally.
+* Proposition: Governments must consider location as a strategic tool in policy-making to attract and retain FDI, emphasizing infrastructure and human capital development.
+7. Diagrams/Models Mentioned
+* Table 1: Comparative analysis of locational factors affecting MNE activities in the 1970s vs. the 1990s.
+o 1970s: Focus on traditional factors like natural resources, wage costs, and trade barriers.
+o 1990s: Focus shifts to factors like knowledge-intensive assets, skilled labor availability, institutional support, and agglomeration economies.
+o This model highlights the transition from cost-driven to knowledge-driven locational decision-making.
+8. Conclusion
+* Key Findings:
+1. Location factors have evolved significantly, especially in response to the growing importance of knowledge and intellectual capital.
+2. MNEs are key players in the international division of labor, influencing both trade and the allocation of economic activities.
+3. The interplay between ownership, location, and internalization advantages is critical to understanding MNE behavior.
+* Future Research Directions: The need for further study into how governments can support location advantages and how MNEs can optimize location decisions for competitive advantage.
