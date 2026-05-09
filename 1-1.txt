@@ -1,11 +1,71 @@
 Session 3: Economic theories of international business
 
-TitleAuthorsJournalYearBrief
-TitleAuthorsJournalYearBrief
-TitleAuthorsJournalYearBrief
-TitleAuthorsJournalYearBrief
-TitleAuthorsJournalYearBrief
-TitleAuthorsJournalYearBrief
+Title
+
+Authors
+
+Journal
+
+Year
+
+Brief
+
+
+Title
+
+Authors
+
+Journal
+
+Year
+
+Brief
+
+
+Title
+
+Authors
+
+Journal
+
+Year
+
+Brief
+
+
+Title
+
+Authors
+
+Journal
+
+Year
+
+Brief
+
+
+Title
+
+Authors
+
+Journal
+
+Year
+
+Brief
+
+
+Title
+
+Authors
+
+Journal
+
+Year
+
+Brief
+
+
 
 
 
@@ -16,7 +76,17 @@ For question 1 (describe a session term):
 Considering the attached papers, give a definition for ?The future of international business? 
 
 
-TitleKnowledge of the Firm and the Evolutionary Theory of the Multinational CorporationAuthorsKogut and ZanderJournalYear1993Brief
+Title
+Knowledge of the Firm and the Evolutionary Theory of the Multinational Corporation
+Authors
+Kogut and Zander
+Journal
+
+Year
+1993
+Brief
+
+
 1. Introduction and Abstract
 * Main Argument: Firms are social communities specializing in creating and transferring knowledge. The multinational corporation (MNC) emerges due to its efficiency in transferring knowledge across borders.
 * Objective: The paper challenges the idea that MNCs arise primarily from market failure, instead proposing that they excel in knowledge transfer, especially tacit knowledge.
@@ -71,7 +141,17 @@ o Number of Previous Transfers: The frequency of past technology transfers.
 
 
 
-TitleAgglomeration Economies, Firm Heterogeneity, and Foreign Direct Investment in the United StatesAuthorsJ. Myles Shaver and Fredrick FlyerJournalYear2000Brief
+Title
+Agglomeration Economies, Firm Heterogeneity, and Foreign Direct Investment in the United States
+Authors
+J. Myles Shaver and Fredrick Flyer
+Journal
+
+Year
+2000
+Brief
+
+
 Main Sections:
 1. Introduction:
 o Introduces the concept of agglomeration economies?positive externalities from the geographic clustering of industries.
@@ -130,7 +210,17 @@ o Survival: Whether firms survive after clustering or not.
 2. Independent Variables:
 o Agglomeration Measure (PROPORTION): Proportion of industry establishments in the state where the firm locates.
 o Control Variables: Industry growth, concentration ratios, relatedness of firms, previous U.S. experience, etc.
-TitleA Resource Perspective of Global Dynamic CapabilitiesAuthorsDavid A. Griffith and Michael G. HarveyJournalYear2001Brief
+Title
+A Resource Perspective of Global Dynamic Capabilities
+Authors
+David A. Griffith and Michael G. Harvey
+Journal
+
+Year
+2001
+Brief
+
+
 1. Introduction
 * The paper examines global dynamic capabilities by integrating resource- and market-based views of firms.
 * Focuses on international business relationships and how resource-based and market-based assets influence power.
@@ -194,7 +284,17 @@ o The diagram shows the relationship between internal (RBV) and external (MBV) a
 
 
 
-TitleThe resource-based view and international businessAuthorsMike W. PengJournalYear2001Brief
+Title
+The resource-based view and international business
+Authors
+Mike W. Peng
+Journal
+
+Year
+2001
+Brief
+
+
 1. Introduction
 * Main Focus: The paper tracks the evolution of the resource-based view (RBV) of the firm within the international business (IB) literature.
 * Three Key Questions:
@@ -259,7 +359,17 @@ Key Diagrams and Models:
 
 
 
-TitleThe Evolutionary View of the MNE and the Future of Internalization TheoryAuthorsA. VerbekeJournalJournal of International Business StudiesYear2003Brieffocuses on integrating evolutionary theory into the analysis of Multinational Enterprises (MNEs) and critiques the traditional internalization theory.
+Title
+The Evolutionary View of the MNE and the Future of Internalization Theory
+Authors
+A. Verbeke
+Journal
+Journal of International Business Studies
+Year
+2003
+Brief
+focuses on integrating evolutionary theory into the analysis of Multinational Enterprises (MNEs) and critiques the traditional internalization theory.
+
 1. Introduction
 * Focus:
 o The paper critiques and builds on Kogut and Zander?s (1993) evolutionary view of the MNE.
@@ -308,7 +418,17 @@ o Key Insight: Bounded rationality is central, while opportunism is seen as a co
 
 
 
-TitleLocation and the Multinational Enterprise: A Neglected Factor?AuthorsJohn H. DunningJournalYear2009BriefThis paper positions location as a critical but often overlooked element in the strategies of MNEs, suggesting a rebalancing of the focus within the OLI paradigm
+Title
+Location and the Multinational Enterprise: A Neglected Factor?
+Authors
+John H. Dunning
+Journal
+
+Year
+2009
+Brief
+This paper positions location as a critical but often overlooked element in the strategies of MNEs, suggesting a rebalancing of the focus within the OLI paradigm
+
 1. Introduction
 * Purpose: The paper challenges the neglect of location as a significant factor in explaining multinational enterprise (MNE) activity, particularly in relation to the OLI (Ownership, Location, Internalization) paradigm.
 * Argument: Dunning argues against the overemphasis on internalization (I) in the OLI paradigm, suggesting location (L) plays a critical and dynamic role that is interdependent with ownership and internalization advantages.
