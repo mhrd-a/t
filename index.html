@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Copy DOCX Text</title>
+  <script src="https://unpkg.com/mammoth/mammoth.browser.min.js"></script>
+  <style>
+    button {
+      display: block;
+      margin: 15px;
+      padding: 15px 25px;
+      font-size: 22px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Click to copy text</h2>
+
+<button onclick="copyDocx('1.docx')">1</button>
+<button onclick="copyDocx('2.docx')">2</button>
+<button onclick="copyDocx('3.docx')">3</button>
+<button onclick="copyDocx('4.docx')">4</button>
+
+<p id="status"></p>
+
+<script>
+async function copyDocx(filename) {
+  const status = document.getElementById("status");
+
+  try {
+    const response = await fetch(filename);
+    if (!response.ok) {
+      throw new Error("File not found: " + filename);
+    }
+
+    const arrayBuffer = await response.arrayBuffer();
+
+    const result = await mammoth.extractRawText({
+      arrayBuffer: arrayBuffer
+    });
+
+    await navigator.clipboard.writeText(result.value);
+
+    status.textContent = filename + " text copied to clipboard.";
+  } catch (error) {
+    status.textContent = "Error: " + error.message;
+  }
+}
+</script>
+
+</body>
+</html>
