@@ -1,9 +1,6 @@
 Q001
-Please answer three of the four questions listed below. Please put your student number at the top of a new page and clearly label the question and your responses to each part. For each and all of your questions, be sure to cite references from the literature using the author’s name and the date of the publication provided on the first page. While you are allowed to use other references, please make sure that when a specific paper is asked for, you need to use that specific argumentation.
-The total score for your answer on the questions part a) is 5 points; b) is 10 points; c) is 15 points.
-In certain cases a distribution of points are mentioned after the question for your information.
+-----------------------
 Question 1:
-
 Shenkar et al. (2008) develop the metaphor on “cultural friction”.
 
 a. What is cultural friction and why do the authors believe that this metaphor is more
@@ -17,6 +14,7 @@ Why is it more suitable?
 Shenkar et al. (2008) argue that cultural friction is better than cultural distance because cultural distance became too mechanical and static. Hofstede (1983) helped popularize the idea that national cultures can be compared through measurable dimensions, such as power distance, uncertainty avoidance, individualism, and masculinity. Kogut and Singh (1988) then turned these dimensions into a single cultural distance index. This made culture easy to measure, but also oversimplified it. Shenkar et al. criticize this because it treats culture like geographic distance: fixed, symmetric, and measurable from one country to another. 
 The problem is that real cultural encounters are not just about “how far apart” two countries are. They involve contact, negotiation, conflict, power differences, and adaptation. Cultural distance assumes cultures are separate and static, while cultural friction focuses on what happens when cultures actually meet. 
 Therefore, Shenkar et al. believe friction is more suitable for social science research because it captures the dynamic, relational, and political nature of cross-cultural interaction better than Hofstede-based or Kogut and Singh-style distance measures. 
+
 b. Tung and Verbeke (2010) stress that there are ten common assumptions on cultural
 distance dimensions in applied IB and management research. These assumptions are
 categorized into three categories of limitations. What are the three categories of
@@ -33,13 +31,12 @@ address) each of these three types of limitations? Explain your answer carefully
 ensure that you relate the theory on the friction metaphor to each category of limitations
 in a structured manner.
 W9-3
-
 Shenkar et al.’s cultural friction metaphor addresses many, but not all, of Tung and Verbeke’s limitations.
 For Type I generic limitations, friction improves on distance because it rejects simple symmetry and stability. Friction is relational: the experience of one actor meeting another may differ depending on power, identity, and interests. This helps explain why country A’s experience with country B may not equal country B’s experience with country A. Friction also treats culture as dynamic because cultural interaction changes over time through responses and counter-responses. 
 For Type II remediable empirical weaknesses, friction helps by warning researchers not to assume simple linear or automatic causal effects. Cultural difference does not mechanically produce one outcome. Instead, outcomes depend on the specific encounter, actors, interests, and context. However, friction is more of a theoretical metaphor than a direct statistical method, so researchers still need careful empirical design.
 For Type III reconceptualization weaknesses, friction is especially useful. It directly challenges the idea that national culture is homogeneous or that distance is always negative. It emphasizes local constituencies, hidden voices, power asymmetry, and conflict. It also discourages reducing culture to one aggregate index. However, friction may overemphasize tension and conflict and may understate cooperation or harmony. So, it strongly advances reconceptualization, but it does not completely solve measurement problems. 
 
- 
+-----------------------
 Question 2:
 
 Foreign investment has been an engine of growth worldwide and has been a major subject of
@@ -57,9 +54,7 @@ W4-3
 
 Buckley et al. (2007), building on Buckley and Casson (1976), explain that the theory of FDI rests on two major principles.
 The first principle is that firms internalize imperfect or missing external markets when doing so is more efficient than using the market. External markets for knowledge, technology, or intermediate products are often inefficient because of transaction costs, uncertainty, and risks of opportunism. Firms therefore choose FDI to internalize these transactions within the organization. Instead of licensing or exporting, firms establish subsidiaries abroad to maintain control over their proprietary knowledge and reduce transaction costs. Internalization continues until the costs of organizing activities internally become greater than the benefits. 
-The second principle is that firms choose locations that minimize the overall costs of operations. Firms invest in countries that provide advantages such as market size, natural resources, lower production costs, strategic assets, or geographic proximity. Buckley et al. explain that firms may engage in market-seeking, resource-seeking, or efficiency-seeking FDI depending on the benefits offered by host countries. Thus, FDI location decisions are shaped by both internalization advantages and location advantages. 
-
-
+The second principle is that firms choose locations that minimize the overall costs of operations. Firms invest in countries that provide advantages such as market size, natural resources, lower production costs, strategic assets, or geographic proximity. Buckley et al. explain that firms may engage in market-seeking, resource-seeking, or efficiency-seeking FDI depending on the benefits offered by host countries. Thus, FDI location decisions are shaped by both internalization advantages and location advantages.
  
 c. Delios and Beamish (1999) argue that the institutional environment influence foreign
 investment ownership.
@@ -80,38 +75,28 @@ Delios and Beamish focus on ownership structure as a governance mechanism in IJV
 Similarly, Devarakonda et al. argue that differences in legal institutions influence the design of governance mechanisms in IJVs, especially dispute resolution systems such as arbitration. When firms from different institutional backgrounds cannot rely confidently on public courts, they create private governance mechanisms, including arbitration clauses, to manage disputes more efficiently. 
 Both studies therefore share a common institutional logic rooted in transaction cost economics and new institutional economics. Institutions shape the efficiency of exchanges, determine governance costs, and influence how firms design governance arrangements. The difference is mainly in focus: Delios and Beamish emphasize equity ownership, while Devarakonda et al. emphasize contractual dispute-resolution mechanisms such as arbitration. 
 Question 3:
-a. Explain three of the four dimensions explained by Geert Hofstede (1983). Make sure you 
-     name each of the cultural dimensions and explain what they each entail.
+a. Explain three of the four dimensions explained by Geert Hofstede (1983). Make sure you name each of the cultural dimensions and explain what they each entail.
 W9-1
 Hofstede (1983) developed four major cultural dimensions to explain how national cultures differ. Three important dimensions are Individualism versus Collectivism, Power Distance, and Uncertainty Avoidance.
 The first dimension is Individualism versus Collectivism. Individualistic societies emphasize personal goals, independence, and individual achievement. People are expected to take care of themselves and prioritize personal success. In collectivist societies, individuals are strongly connected to groups such as family, organizations, or communities, and group loyalty and harmony are highly valued. Hofstede found that wealthier countries often score higher on individualism. 
 The second dimension is Power Distance. This refers to the extent to which societies accept unequal distributions of power. In high power-distance societies, hierarchy and authority are accepted as normal, and subordinates are less likely to challenge leaders. In low power-distance societies, people prefer equality, consultation, and participative decision making. 
 The third dimension is Uncertainty Avoidance. This dimension measures how comfortable societies are with uncertainty and ambiguity. Strong uncertainty-avoidance cultures prefer rules, structure, predictability, and security. Weak uncertainty-avoidance cultures are more tolerant of ambiguity, risk, and change. 
-
-
  
-b. According Holburn and Zelner (2010), MNEs have two different types of political 
-     capabilities. Which two capabilities are they referring to?
+b. According Holburn and Zelner (2010), MNEs have two different types of political capabilities. Which two capabilities are they referring to?
 W6-5
 Holburn and Zelner (2010) argue that multinational enterprises possess two major types of political capabilities: capabilities for assessing policy risk and capabilities for managing the policy-making process.
 The first capability is the ability to assess policy risk. Firms need to understand political institutions, government behavior, and the likelihood of policy changes in foreign countries. MNEs with strong political capabilities can better evaluate risks such as expropriation, regulatory change, corruption, or policy instability. These firms are better able to identify which political actors matter, how institutions function, and how policies may evolve over time. 
 The second capability is the ability to manage the policy-making process. This refers to the firm’s capacity to influence political outcomes and maintain favorable relationships with governments and stakeholders. Firms develop political ties, build coalitions, lobby policymakers, and negotiate with local actors to secure beneficial policies or defend existing advantages. According to the authors, firms from more politically contentious home countries often develop stronger political capabilities because they gain experience dealing with unstable or complex political systems. 
 Together, these capabilities allow some MNEs not only to survive in risky political environments but even to seek opportunities in them.
-
  
-c. Why do Boddewyn and Brewer (1994) believe that governments in IB research are 
-     considered a variable rather than a constant? Explain your answer.
+c. Why do Boddewyn and Brewer (1994) believe that governments in IB research are considered a variable rather than a constant? Explain your answer.
 W6-2
 Boddewyn and Brewer (1994) argue that governments in international business research should be viewed as a variable rather than a constant because governments differ greatly across countries and actively shape business activities. International firms operate across multiple political systems, and these systems vary in laws, regulations, political stability, ideology, and government intervention. Therefore, governments cannot simply be treated as fixed background conditions. 
 The authors explain that governments influence firms’ entry, operations, competition, and survival. States create market imperfections by controlling trade, investment, taxation, regulation, and ownership rules. Because countries have different political economies and levels of openness, firms must adapt their strategies to each government environment. For example, one government may encourage foreign investment, while another may impose restrictions or expropriate foreign assets. 
 Boddewyn and Brewer also argue that governments are not only constraints but can also act as a factor of production. Firms may try to influence governments through lobbying, bargaining, coalition building, or partnerships to gain competitive advantages. Political behavior therefore becomes an important strategic activity for multinational firms.
 Overall, the authors believe governments are dynamic, diverse, and strategically important actors in IB, which is why they should be treated as variables that shape international business outcomes rather than as passive constants.
 
-
-
-
-
- 
+-----------------------
 Question 4:
 a. Reuer et al (2014) argue that there is an inherent, but fundamental tension that IJVs are confronted with. What is this tension that they are referring to? Explain the tension.
 W1-4
@@ -147,9 +132,9 @@ Therefore, the following hypothesis can be developed:
 Hypothesis:
 IJV board involvement will be greater when the legal institutional frameworks of partner firms are weak or highly different, because partners will rely more on internal governance mechanisms to monitor behavior, coordinate activities, and resolve disputes.
 
-
- 
+-----------------------
 Q002
+-----------------------
 Question 2: Peng (2001) argues that the resource-based view (RBV) is a neglected theory in international business.
 
 A. According Peng (2001), how can the resource based view be helpful in explaining firm's internationalization strategies?
@@ -160,7 +145,6 @@ Traditional international business theories mainly emphasized industry condition
 Peng also explains that RBV is useful for understanding multinational corporations, strategic alliances, market entry decisions, and international entrepreneurship. For example, firms with strong organizational capabilities are better able to manage international diversification and transfer knowledge across subsidiaries. 
 Overall, Peng argues that RBV improves our understanding of internationalization because it focuses on internal firm capabilities as the main drivers of foreign expansion and international competitive advantage.
 
- 
 B. What are the differences between TCE and the RBV in explaining market entry (according Peng 2001)?
 W3-4
 
@@ -170,8 +154,6 @@ In contrast, RBV emphasizes the strategic value of firm resources. Firms choose 
 Another important difference is that TCE mainly explains how firms reduce risks and transaction costs, whereas RBV explains how firms create value and sustain competitive advantage internationally. RBV also highlights learning, knowledge transfer, and capability development across subsidiaries and alliances.
 Regarding market entry, TCE predicts entry modes that maximize efficiency and minimize hazards, while RBV predicts entry modes that best exploit or protect valuable firm-specific resources. For example, a firm with strong technological knowledge may prefer a wholly owned subsidiary to better protect proprietary capabilities.
 Therefore, TCE is more efficiency-oriented, while RBV is more capability- and strategy-oriented in explaining foreign market entry.
-
-
  
 C. You are asked to develop a hypothesis on the effect of political capabilities on entry mode choice? Which theory would you use (i.e., transaction cost economic (internalization theory) or the resource based view) an what would be your main arguments? (Make sure that you integrate arguments by Hollburn and Zelner (2010) in your answer).
 W6-5
@@ -183,8 +165,7 @@ A possible hypothesis is:
 Hypothesis: Firms with stronger political capabilities are more likely to choose high-control entry modes in politically risky host countries.
 The main argument is that political capabilities represent firm-specific strategic resources that help firms manage institutional uncertainty, influence governments, and protect investments abroad. Therefore, these firms can operate more independently and rely less on local partners.
 
-
- 
+-----------------------
 Question 3: Peng et al. (2008) discuss the need for an institution-based view of international business strategy (in particular for emerging economies).
 
 A. What is the strategy tripod?
@@ -196,8 +177,6 @@ The second leg is the resource-based view (RBV), associated with Barney (1991). 
 Peng et al. argue that these two perspectives are incomplete because they often ignore institutions. Therefore, they propose the institution-based view as the third leg of the tripod. Institutions are the “rules of the game,” including formal institutions such as laws and regulations and informal institutions such as culture, norms, and networks.
 According to Peng et al., strategic choices are shaped not only by industry competition and firm resources, but also by institutional conditions and transitions. This perspective is especially important in emerging economies where institutions are changing rapidly. 
 
-
- 
 B. Why are institutional conditions and transitions helpful in explaining strategy and performance?
 W4-4
 
@@ -207,7 +186,6 @@ In developed economies, institutions are usually stable and often taken for gran
 Institutional conditions affect transaction costs, uncertainty, political risk, and access to resources. For example, weak legal systems may encourage firms to rely more on personal networks and alliances. Government policies, corruption, and market reforms can also shape entry mode choices, investment strategies, and firm performance.
 Peng et al. argue that institutions are not just background conditions. Instead, institutions directly influence what strategies firms can use and which competitive advantages they can develop. Therefore, institutional conditions and transitions help explain why firms behave differently across countries and why some firms perform better than others in emerging markets.
 
- 
 C. Transaction cost economics and institutional theory are both helpful in explaining firm's internationalization strategies (e.g., entry mode choice). What are the similarities and differences between these two theories?
 W4-4, W4-2
 
@@ -218,9 +196,7 @@ Institutional theory, in contrast, focuses more broadly on the impact of formal 
 Another difference is that TCE focuses mainly on economic efficiency, while institutional theory includes political, legal, and social influences. TCE assumes firms seek the most efficient governance structure, whereas institutional theory explains how firms adapt to institutional environments and transitions.
 Overall, TCE explains internationalization mainly through transaction costs and governance efficiency, while institutional theory explains it through broader institutional constraints, legitimacy, and changing rules of the game.
 
-
-
- 
+----------------------- 
 Question 4: Husted and Allen (2006) investigate corporate social responsibility in the multinational enterprise.
 
 A. According Davies (1979), why is this paper "interesting?
@@ -251,26 +227,15 @@ The authors also explain that greater cultural distance reduces empathy and iden
 Therefore, although institutional differences may increase the need for legitimacy-building CSR, they simultaneously reduce firms’ ability and willingness to engage in CSR. I believe the second effect is usually stronger. Consequently, larger institutional differences are more likely to lead to lower levels of CSR practices in host countries, especially when firms lack local knowledge, institutional experience, or strong international CSR capabilities.
 
 
-
- 
+-----------------------
 Q003
-Please answer three of the four questions listed below. Please put your student number at the
-top of a new page and clearly label the question and your responses to each part. For each
-and all of your questions, be sure to cite references from the literature using the author’s name
-and the date of the publication provided on the first page. While you are allowed to use other
-references, please make sure that when a specific paper is asked for, you need to use that
-specific argumentation.
-The total score for your answer on the questions part a) is 5 points; b) is 10 points; c) is 15 points.
-In certain cases a distribution of points are mentioned after the question for your information.
-
+-----------------------
 Question 1
 a. Two hypotheses of the product-cycle model were examined by Cantwell (1995). Which hypothesis does he disagree with (and why) and which hypothesis does he agree with (and why)?
 W8-1
 
 Cantwell (1995) reexamines two major hypotheses from Vernon’s product-cycle model. He disagrees with the first hypothesis, which argues that innovation activities are mainly located in the multinational corporation’s home country. Cantwell rejects this idea because historical patent evidence shows that many multinational corporations had already dispersed their technological and research activities internationally long before the recent globalization era. He demonstrates that firms, especially large European chemical firms and American electrical companies, conducted significant innovation activities abroad as early as the interwar period. Therefore, innovation was not always centralized in the parent company’s home country.
 However, Cantwell agrees with the second hypothesis, which states that international expansion is led by technologically advanced firms. He argues that technology leaders possess stronger innovative capabilities, greater profits, and better organizational resources, allowing them to internationalize more successfully than competitors. Over time, these leading firms developed global technological networks to exploit specialized knowledge and “centers of excellence” located in different countries. Thus, Cantwell supports the idea that technology leadership drives internationalization, although the form of internationalization has evolved toward globally integrated innovation networks.
-
-
 
  
 b. Li and Filer (2007) discuss the costs and benefits of two legal systems. What are these legal systems. What are their characteristics, and can we think of them as pure ends of the legal spectrum?
@@ -284,12 +249,11 @@ Li and Filer argue that these systems should not be viewed as completely pure fo
  
 c. What will companies need to do differently once they have internationalized their technological activities into countries will operate under these two different legal systems?
 
-
 Once firms internationalize their technological activities into countries with different legal systems, they must adapt how they manage innovation, protect intellectual property, and govern business relationships. In rule-based systems, companies can rely more heavily on formal contracts, patents, courts, and public institutions to protect their technological assets and investments. Strong legal enforcement, transparent regulations, reliable accounting standards, and independent courts reduce uncertainty and transaction costs. Therefore, multinational corporations can coordinate research activities through standardized procedures, formal agreements, and broader collaboration with external partners such as universities, suppliers, and research institutions.
 In contrast, firms operating in relation-based or private-ordering systems must depend more on personal relationships, local networks, and direct managerial control. Because public enforcement mechanisms may be weak or inconsistent, firms cannot rely entirely on formal legal protections. Instead, they often need trusted local partners, stronger internal monitoring, and tighter control over technological knowledge. Companies may prefer wholly owned subsidiaries or direct investment because these provide greater private protection and operational control. 
 Cantwell’s discussion of global technological networks also implies that multinational firms must learn to integrate geographically dispersed innovation centers while adapting to local institutional environments. Technology leaders are successful not only because they innovate, but because they can coordinate international learning across different governance systems. In rule-based systems, firms benefit from openness and collaboration, whereas in relation-based systems, success depends more on relationship management, trust-building, and careful protection of proprietary knowledge. Therefore, multinational firms must balance global integration with local institutional adaptation when internationalizing technological activities.
 
- 
+-----------------------
 Question 2
 a. Roy and Oliver (2009) write about partner selection in joint ventures. They argue that the rule of laws leads to two types of partnering concerns. What are those two concerns?
 W11-4
@@ -298,8 +262,6 @@ Roy and Oliver (2009) argue that the host-country rule of law influences two maj
 The first concern is appropriation concerns. These refer to fears that a partner may behave opportunistically and unfairly capture benefits, resources, or profits from the joint venture. In countries with weak rule of law, property rights protection and contract enforcement are unreliable. As a result, firms worry that their partner may misuse knowledge, violate agreements, or take advantage of legal loopholes. Roy and Oliver argue that stronger rule of law reduces these concerns because firms can rely on courts and legal institutions to protect their interests. 
 The second concern is coordination cost concerns. These involve the difficulties and costs of coordinating activities, sharing information, and managing interdependence between partners. Weak legal systems create ambiguity, uncertainty, and monitoring challenges, which increase the need for coordination and supervision between firms. In contrast, strong legal systems reduce uncertainty and make coordination easier and more efficient. 
 Thus, rule of law affects IJVs by shaping both the risk of opportunism and the costs of coordinating collaborative activities.
-
-
 
  
 b. Reur, Klijn and Liokas (2014) argue that there are two fundamental tensions in international joint ventures with respect to board involvement. Explain this tensions.
@@ -311,7 +273,6 @@ The second tension is the need to delegate authority to local management. IJVs o
 Thus, IJV boards must balance control and coordination with flexibility and local adaptation.
 
 
- 
 c. If you were to apply the arguments of Roy and Oliver to the article by Reuer et al, how would the rule of law affect board involvement?
 W11-4, W1-4
 
@@ -321,7 +282,7 @@ This logic fits closely with Reuer et al.’s argument that boards act as ex pos
 In contrast, when rule of law is strong, formal institutions reduce uncertainty and improve contract enforcement. This lowers appropriation and coordination concerns, reducing the need for heavy board monitoring. In such environments, firms can rely more on legal protections and formal governance systems rather than intensive board involvement. This would also support greater delegation of authority to local managers, which Reuer et al. argue becomes more efficient when monitoring costs are lower and local adaptation is important. 
 Therefore, applying Roy and Oliver’s framework suggests a negative relationship between rule of law and board involvement: weaker legal systems increase board involvement, while stronger legal systems reduce it.
 
- 
+-----------------------
 Question 3
 According to Zaheer (1995), liability for foreignness can arise from at least four, nor necessarily independent sources. Identify and briefly explain three of them.
 W5-1
@@ -336,13 +297,6 @@ Zaheer also notes a fourth source: restrictions imposed by the home country, suc
  
 b. Using Delios and Beamish’s (1999) TCE logic, explain how the specificity of assets, and the complementaries of assets affect the ownership position of the MNE in the foreign market. Use the appropriate TCE language and develop the arguments for each category of assets (i.e., specificity and complementarity) in separate paragraphs. 
 W4-1
-
-Asset Specificity:		The assets specialized for a specific purpose (e.g. technology)
-Complementary Assets: 	Additional assets to support market entry (e.g. local knowledge, distribution systems)
-
-Higher Asset Specificity		 	Higher ownership
-Higher Complementary Assets		Lower ownership
-
 
 Delios and Beamish (1999) use Transaction Cost Economics (TCE) to explain how asset specificity influences foreign ownership decisions. Asset specificity refers to firm-specific assets such as technological knowledge, R&D capabilities, marketing expertise, or proprietary know-how. According to TCE, highly specific assets are vulnerable to opportunism and unwanted dissemination if shared through market contracts. As asset specificity increases, transaction hazards also increase, making market-based exchange less efficient. Therefore, firms prefer higher ownership positions, such as wholly owned subsidiaries, because greater ownership provides stronger control and better protection of proprietary assets. Delios and Beamish argue that firms internalize transactions to minimize the risks associated with asset leakage and opportunistic behavior. 
 In contrast, complementary assets have the opposite effect on ownership levels. Complementary assets are local assets that foreign firms need in order to compete effectively in the host country, such as distribution channels, government relationships, local market knowledge, or supplier networks. When these assets are difficult to obtain through markets because of transaction costs or market imperfections, firms often form joint ventures with local partners. In TCE terms, joint ventures become efficient governance structures because they allow firms to access complementary local assets while sharing costs and risks. As the need for complementary assets increases, firms are more likely to accept lower ownership positions in the foreign investment. 
@@ -365,7 +319,11 @@ Delios and Beamish (1999) argue that asset specificity directly increases foreig
 Zaheer (1995) helps explain why institutional context can moderate this relationship. Foreign firms already face a liability of foreignness because they lack local knowledge, legitimacy, and embeddedness in the host market. In a weak institutional context, this liability becomes more serious because the MNE cannot rely fully on local courts, property-rights protection, or stable rules. As a result, the risks attached to asset specificity become stronger. The firm is more likely to choose higher ownership to internalize transactions, reduce dependence on local partners, and protect its proprietary assets.
 In a strong institutional context, the opposite logic applies. Better legal protection, stronger property rights, and more predictable rules reduce transaction hazards. They also reduce some aspects of liability of foreignness by making the host environment easier to understand and operate in. Therefore, the positive relationship between asset specificity and ownership becomes weaker because the MNE can rely more on formal institutions and may not need full ownership to protect its assets.
 So, weak institutions strengthen the asset-specificity → ownership relationship; strong institutions weaken it. 
+
+
+-----------------------
 Q005
+-----------------------
 Question 1:
 Based on week 2:
 
@@ -380,7 +338,6 @@ However, Peng disagreed with Buckley’s conclusion that IB research was running
 Peng also disagreed with Buckley’s suggested future questions. For example, he argued that studying the rise of nations focuses too much on the country level instead of the firm level, which is the core of IB research. He also believed that globalization alone is too broad and overlaps heavily with other disciplines such as political economy and geography. 
 Overall, Peng believed the IB field remained strong because it still studies how firms succeed internationally, which gives the discipline a unique comparative advantage. Therefore, he was much more optimistic about the future of IB research than Buckley. 
 
- 
 c.	Why cannot we see IB as a separate filed? (15 points)
 International Business (IB) cannot be seen as a completely separate field because it is highly interdisciplinary and overlaps with many other business and social science disciplines. IB research studies international activities of firms, but to explain these activities it uses theories and methods from economics, strategy, finance, marketing, sociology, political science, and organizational behavior. (Caves, 1998)
 Caves (1998) explained that IB “cuts across” traditional business disciplines instead of focusing on one specific type of decision. For example, IB research includes international strategy, cross-border finance, global marketing, and international HRM. Because of this broad scope, the field faces “centrifugal forces” that push researchers toward their own disciplines rather than toward a unified IB theory.
@@ -388,13 +345,10 @@ Buckley and Lessard (2005) also argued that IB operates at multiple levels of an
 Another reason is that many IB topics are shared with other disciplines. For example, globalization is also studied in political economy and geography, while culture is studied in sociology and psychology. Peng (2004) argued that some proposed IB questions are not unique to IB because other disciplines already study them extensively. 
 Therefore, IB is better understood as an integrative and interdisciplinary field rather than a completely independent discipline. Its strength comes from combining different theories and perspectives to explain international business phenomena.
 
-
-
- 
+-----------------------
 Q006
+-----------------------
 BA 800 (IB Seminar) Comprehensive Exam Questions
-
-This is a closed book examination. You will have three (3) hours to take this examination. You should type your answer for each question. All answers to questions being offered should be deleted from your computer after the exam is over. Please put each answer at the top of a new page and clearly label the question and your responses to each part. Please answer each of the three (3) questions for the International Business Seminar (BA 800) portion of the comprehensive examinations:
 
 Question 1: 
 There is consensus in the international business literature on the effect of institutional characteristics on the international strategy of MNEs, both in terms of entry mode choices as well as in terms of governance.
@@ -413,14 +367,14 @@ Institutional characteristics shape the transaction costs MNEs face before and a
 At the pre-entry stage, MNEs may face a lack of reliable information about local partners. This increases search costs because the foreign firm does not know who is trustworthy or capable. Second, MNEs may need to negotiate with local agents who have little experience in market-based business negotiations, which makes contracting more difficult. Third, unclear regulations, inexperienced bureaucracies, underdeveloped courts, and corruption all increase uncertainty and delay. Meyer notes that Western entrants face exactly these problems in transition economies. 
 At the post-entry stage, weak protection of intellectual property is especially important. If an MNE transfers technology or know-how, weak legal protection raises the risk that partners, employees, or competitors may copy or misuse that knowledge. As a result, firms may prefer more hierarchical governance, such as wholly owned subsidiaries, to reduce exposure to unreliable institutions. 
 
- 
 c.	How do legal institutions affect MNE’s decisions to opt for specific governance solutions in IJV contracts when institutional differences are severe.
 W4-5
 
 Devarakonda et al. (2021) argue that legal institutions affect how MNEs design governance mechanisms in international joint venture contracts. When IJV partners come from countries with very different legal institutions, they face higher uncertainty about how disputes will be resolved. Courts may differ in legal tradition, fairness, procedures, enforcement time, enforcement cost, and protection of minority shareholders. Because of this uncertainty, partners are more likely to include arbitration provisions in their contracts instead of relying only on public courts. Arbitration gives partners a private, neutral, third-party mechanism to resolve conflict. 
 The hypotheses explain this logic. First, differences in legal tradition increase the likelihood of arbitration because partners may not share the same assumptions about contracts, courts, and dispute resolution. Second, differences in rule of law increase arbitration use because partners may doubt the fairness or competence of each other’s court systems. Third, differences in enforcement time matter because long or unpredictable court processes increase transaction costs. Fourth, differences in enforcement cost increase arbitration because litigation may become expensive and uncertain. Fifth, differences in minority shareholder protection matter because weaker protection increases fear that one partner may be disadvantaged in the IJV. 
 However, arbitration is not free. Partners must negotiate arbitration clauses, select rules, and accept the cost of private dispute resolution. Also, the key issue is not simply whether one country has weak institutions. The key issue is whether partners come from different legal institutional environments. If firms are already familiar with weaker institutions, they may understand court risks better and may not need arbitration as much.
-  
+
+-----------------------
 Question 2: 
 A significant amount of research has focused on the effects of globalization. 
 a.	Why do critics believe that globalization is harmful for the environment and why do supporters believe that globalization is good for the environment?
@@ -436,14 +390,14 @@ W8-1 (Like Test 003-Q1a)
 Cantwell (1995) revisits two hypotheses from the product cycle model. The first hypothesis says that innovations are almost always located in the home country of the parent company, usually near the firm’s technological headquarters. In the product life cycle logic, this means that in the new product stage, innovation starts at home because the home market has advanced demand, skilled labor, R&D scale economies, and close links between research, production, and users. Then, as the product matures, production may move abroad to serve foreign markets or reduce costs. Cantwell rejects this hypothesis. His patent evidence shows that MNE innovation has often been geographically dispersed, meaning foreign locations can also contribute to innovation. Host countries may offer strong institutions, skilled labor, knowledge clusters, and centers of excellence. Local responsiveness also pushes firms to conduct R&D abroad because products need to be adapted to local market needs. 
 The second hypothesis says that international dispersion of activity is led by technology leaders. Cantwell generally agrees with this hypothesis historically. In the product cycle model, firms with strong innovation capabilities first develop new products at home, then expand production and technology-related activities abroad as products become more standardized and international markets grow. Technology leaders have the strongest firm-specific advantages, so they are more able to internationalize. However, Cantwell updates the argument. In modern globalization, technology leaders are not only moving mature production abroad; they are also building international R&D networks to access foreign centers of excellence. Therefore, H1 is rejected, while H2 is supported but revised for a more globalized innovation system.
 
-
- 
 c.	With the increasing speed of globalization, is the relationship between the institutional context and its effect on the international (entry mode) strategy of a MNE going to be stronger or weaker?
 W8-4, W4-2, 4-5
 
 The relationship between the institutional context and its effect on the international (entry mode) strategy depends on the view of globalization. Ghemawat (2003) would argue that the relationship between institutional context and MNE entry mode strategy will remain strong because the world is still only semiglobalized. Globalization has increased, but markets are not fully integrated. National borders, legal systems, regulations, corruption, enforcement quality, and cultural differences still matter. Therefore, MNEs still need to adapt their entry mode choices to host-country institutions. This is consistent with Meyer (2001), who argues that unstable institutions increase transaction costs and influence whether firms choose wholly owned subsidiaries, joint ventures, acquisitions, or other entry modes.
 However, another view is that high speed of globalization may weaken this relationship. If globalization creates common global standards, more transparency, stronger international rules, and similar business practices, institutional uncertainty may decline. In that case, transaction costs and market imperfections become lower, so firms may rely less on institution-specific entry mode adjustments. Lower market imperfections may allow firms to use lower-control modes. But based on Uppsala logic, lower uncertainty could also encourage higher-commitment modes such as wholly owned subsidiaries.
 Overall, Ghemawat (2003) suggests that globalization is still incomplete, so institutions continue to matter. Devarakonda et al. (2021) also support this view because legal institutional differences still shape governance choices such as arbitration provisions in IJV contracts. Therefore, faster globalization may weaken institutional effects only if it truly produces common global norms; otherwise, the effect remains strong. 
+
+-----------------------
 Question 3: 
 In the early days the resource-based view (RBV) has largely been ignored by international business scholars as an important theoretical lens in understanding the international strategy of MNEs. Recently, scholars discuss its value.  
 a.	What is the overlapping scope between the RBV and the market base view? And what type of capabilities does it generate? Please explain.
@@ -455,7 +409,6 @@ Together, these internal and external assets create global dynamic capabilities.
 Internal assets (RBV) + External assets (MBV) → Dynamic capabilities
 There is overlap scope of RBV and MBV
 
- 
 b.	In relation to market entry strategies, please explain two (out of three) key differences between the RBV and transaction cost economics? 
 W3-4
 
@@ -471,6 +424,7 @@ Kogut and Zander’s evolutionary theory treats the firm as a social community t
 The first TCE assumption they challenge is opportunism. Traditional TCE argues that firms internalize transactions because external partners may behave opportunistically. Kogut and Zander reject the need for this assumption. They argue that internal transfer can be chosen simply because the firm is more efficient at transferring complex and tacit knowledge than outside parties. In other words, the market does not have to “fail” because of opportunism; firms may internalize because of differential capabilities. 
 The second assumption is bounded rationality. Verbeke (2003) explains that Kogut and Zander force scholars to rethink both bounded rationality and opportunism in Williamsonian TCE. Their evolutionary view puts less emphasis on transaction cost minimization and more emphasis on value creation, learning, and capability development. 
 Thus, the evolutionary theory rejects the idea that MNE strategy is explained only by transaction hazards. Instead, it argues that knowledge, learning, and organizational capability explain why MNEs exist and how they choose entry or technology transfer modes.
+
 Figure: Bounded Rationality and Opportunism in MNE decision making
 X axis: Bounded Rationality (From Absent to Prime focus)
 Y axis: Opportunism (From Absent to Prime focus)
@@ -712,4 +666,3 @@ Feinberg and Gupta (2009) draw on transaction cost economics to explain how mult
 
 Roy and Oliver (2009) - JV partner selection
 Roy and Oliver (2009) examine how host-country institutional environments, especially rule of law and control of corruption, shape partner selection in international joint ventures. Drawing on institutional theory and transaction cost economics, they argue that strong rule of law reduces both appropriation concerns and coordination costs, while corruption control surprisingly has limited direct effect. They distinguish task-related selection criteria (capabilities and resources) from partner-related criteria (trust, reputation, goal alignment). Concerns about appropriation and coordination shift emphasis toward partner-related criteria; in weak legal environments, firms compensate by scrutinizing partner trustworthiness and value alignment. The mediation analyses reveal that macro-level institutions filter into micro-level decisions through perceived transaction risks rather than directly.
-
