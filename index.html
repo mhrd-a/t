@@ -29,31 +29,38 @@
       font-size: 18px;
       color: green;
     }
+
+    #status.error {
+      color: red;
+    }
   </style>
 </head>
+
 <body>
 
-<h2></h2>
+<h2>IB</h2>
 
 <div class="grid">
-  <button onclick="copyDocx('1-1.docx')">1-1</button>
-  <button onclick="copyDocx('1-2.docx')">1-2</button>
+  <button onclick="copyFile('1-1.docx')">1-1</button>
+  <button onclick="copyFile('1-2.docx')">1-2</button>
 
-  <button onclick="copyDocx('2-1.docx')">2-1</button>
-  <button onclick="copyDocx('2-2.docx')">2-2</button>
+  <button onclick="copyFile('2-1.docx')">2-1</button>
+  <button onclick="copyFile('2-2.docx')">2-2</button>
 
-  <button onclick="copyDocx('3-1.docx')">3-1</button>
-  <button onclick="copyDocx('3-2.docx')">3-2</button>
+  <button onclick="copyFile('3-1.docx')">3-1</button>
+  <button onclick="copyFile('3-2.docx')">3-2</button>
 
-  <button onclick="copyDocx('4-1.txt')">4-1</button>
-  <button onclick="copyDocx('4-2.txt')">4-2</button>
+  <button onclick="copyFile('4-1.txt')">4-1</button>
+  <button onclick="copyFile('4-2.txt')">4-2</button>
 </div>
 
 <p id="status"></p>
 
 <script>
-async function copyDocx(filename) {
+async function copyFile(filename) {
   const status = document.getElementById("status");
+  status.classList.remove("error");
+  status.textContent = "Opening " + filename + "...";
 
   try {
     const response = await fetch(filename);
@@ -62,16 +69,31 @@ async function copyDocx(filename) {
       throw new Error("File not found: " + filename);
     }
 
-    const arrayBuffer = await response.arrayBuffer();
+    let text = "";
 
-    const result = await mammoth.extractRawText({
-      arrayBuffer: arrayBuffer
-    });
+    if (filename.toLowerCase().endsWith(".docx")) {
+      const arrayBuffer = await response.arrayBuffer();
 
-    await navigator.clipboard.writeText(result.value);
+      const result = await mammoth.extractRawText({
+        arrayBuffer: arrayBuffer
+      });
 
-    status.textContent = filename + " done.";
+      text = result.value;
+    } 
+    
+    else if (filename.toLowerCase().endsWith(".txt")) {
+      text = await response.text();
+    } 
+    
+    else {
+      throw new Error("Unsupported file type: " + filename);
+    }
+
+    await navigator.clipboard.writeText(text);
+
+    status.textContent = filename + " copied to clipboard.";
   } catch (error) {
+    status.classList.add("error");
     status.textContent = "Error: " + error.message;
   }
 }
