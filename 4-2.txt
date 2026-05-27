@@ -85,10 +85,10 @@ The third dimension is Uncertainty Avoidance. This dimension measures how comfor
  
 b. According Holburn and Zelner (2010), MNEs have two different types of political capabilities. Which two capabilities are they referring to?
 W6-5
-Holburn and Zelner (2010) argue that multinational enterprises possess two major types of political capabilities: capabilities for assessing policy risk and capabilities for managing the policy-making process.
-The first capability is the ability to assess policy risk. Firms need to understand political institutions, government behavior, and the likelihood of policy changes in foreign countries. MNEs with strong political capabilities can better evaluate risks such as expropriation, regulatory change, corruption, or policy instability. These firms are better able to identify which political actors matter, how institutions function, and how policies may evolve over time. 
-The second capability is the ability to manage the policy-making process. This refers to the firm’s capacity to influence political outcomes and maintain favorable relationships with governments and stakeholders. Firms develop political ties, build coalitions, lobby policymakers, and negotiate with local actors to secure beneficial policies or defend existing advantages. According to the authors, firms from more politically contentious home countries often develop stronger political capabilities because they gain experience dealing with unstable or complex political systems. 
-Together, these capabilities allow some MNEs not only to survive in risky political environments but even to seek opportunities in them.
+According to Holburn and Zelner (2010), MNEs differ in their political capabilities because firms develop these capabilities through two main mechanisms: organizational learning and cognitive imprinting.
+First, organizational learning means that firms learn from repeated experience in their home-country political environment. If a firm comes from a country with weak institutional constraints, strong political conflict, or high rent-seeking, it must learn how to deal with government actors, influence policy, build coalitions, and protect itself from harmful policy changes. Over time, these repeated experiences become routines and capabilities that the firm can use abroad.
+Second, cognitive imprinting means that managers are shaped by the political and institutional environment in which they operate. Their home-country experience affects how they interpret political risk, uncertainty, and government behavior. Managers from politically difficult environments may see policy risk as normal and manageable, while others may see it as too dangerous.
+Together, these two mechanisms explain why some MNEs are better able to enter and operate in risky host countries.
  
 c. Why do Boddewyn and Brewer (1994) believe that governments in IB research are considered a variable rather than a constant? Explain your answer.
 W6-2
