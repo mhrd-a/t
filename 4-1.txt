@@ -417,7 +417,24 @@ Y axis: Opportunism (From Absent to Prime focus)
 From Kogut and Zander to MNE reality
 From Williamson to MNE reality
 
+-----------------------
+Q007
+-----------------------
+c.	How might the development of such political or institutional capabilities influence the conclusions proposed by Devarakonda et al. (2025)? Use Hollburn and Zelner's (2010) arguments to support your explanation.
+W6-5 (Very close to Q002-2c)
+Devarakonda is for 2021 (W4-5)
 
+Devarakonda et al. (2021) argue that when IJV partners come from countries with different legal institutions, they are more likely to include arbitration provisions in their contracts. Legal differences create uncertainty because partners may not share the same expectations about contract enforcement, court procedures, litigation costs, or fairness. Arbitration helps solve this problem by providing a more neutral, private, and predictable dispute-resolution mechanism. Therefore, their conclusion is that greater institutional or legal differences increase reliance on arbitration.
+Holburn and Zelner’s (2010) argument can modify this conclusion. They argue that firms develop political capabilities through organizational learning and cognitive imprinting. Through organizational learning, firms repeatedly exposed to weak, unstable, or politically contested institutions learn how to deal with political actors, manage uncertainty, and protect their interests. Through cognitive imprinting, managers develop mental models from their home-country environment, shaping how they interpret institutional risk. Managers from difficult institutional environments may see legal or political uncertainty as manageable rather than exceptional.
+Therefore, the development of these capabilities may weaken Devarakonda et al.’s proposed relationship. Institutional differences may still increase the use of arbitration, but this effect should be weaker for firms that have learned how to operate under institutional uncertainty. Such firms may rely less on formal arbitration because they are more confident in managing legal and political differences through experience, relationships, negotiation, or informal governance. Thus, arbitration depends not only on institutional differences, but also on firms’ capabilities to handle those differences.
+ 
+c.	To what extent do the conclusions regarding institutional environment dynamics presented by La Porta et al. (1998) influence -or potentially challenge- the core argument made by Reuer et al. (2014)?
+W11-1, W1-4
+
+La Porta et al. (1998) can both support and challenge Reuer et al.’s (2014) argument. Reuer et al. argue that IJV board involvement depends on an efficiency tradeoff. When exchange hazards are high, boards should be more involved because they provide administrative control. But when local uncertainty, cultural distance, or host-country complexity is high, it may be better to delegate authority to local management. 
+La Porta et al. show that legal institutions differ significantly across countries. Common law countries generally provide stronger investor protection, while French civil law countries provide weaker protection; enforcement quality also differs across legal systems. They also show that countries adapt to weak investor protection through mechanisms such as ownership concentration. 
+This supports Reuer et al. because it shows why institutional environments matter for governance. In countries with weak investor protection or weak enforcement, parent firms may need more board involvement to monitor managers, protect investments, and reduce opportunism. In this sense, La Porta et al. strengthen Reuer et al.’s view that governance should be matched to institutional conditions.
+However, La Porta et al. also challenge Reuer et al. by suggesting that institutional environments are not just temporary uncertainty. They are deeply rooted in legal origin and enforcement systems. If legal institutions are weak, delegation to local management may be risky because local managers may operate under weak investor protection or weak courts. Therefore, high host-country uncertainty may not always reduce board involvement. In weak legal environments, parent firms may actually want more board control, not less. Thus, La Porta et al. complicate Reuer et al.’s argument by showing that institutional quality can push firms toward stronger formal governance.
 
 
 
