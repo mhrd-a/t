@@ -4,8 +4,7 @@ Q001
 Question 1:
 Shenkar et al. (2008) develop the metaphor on “cultural friction”.
 
-a. What is cultural friction and why do the authors believe that this metaphor is more
-suitable in social science research compared to cultural distance?
+a. What is cultural friction and why do the authors believe that this metaphor is more suitable in social science research compared to cultural distance?
 W9-3
 What is cultural friction?
 Cultural friction means the tension, resistance, conflict, and negotiation that happen when cultural systems actually meet. Shenkar et al. argue that “cultural distance” is too static and abstract because it treats culture like a measurable gap between countries. It assumes cultures are separate, stable, and comparable, like physical distance. But in real international business, cultures do not simply “sit apart”; they interact through firms, managers, employees, governments, and local communities. 
@@ -16,21 +15,14 @@ Shenkar et al. (2008) argue that cultural friction is better than cultural dista
 The problem is that real cultural encounters are not just about “how far apart” two countries are. They involve contact, negotiation, conflict, power differences, and adaptation. Cultural distance assumes cultures are separate and static, while cultural friction focuses on what happens when cultures actually meet. 
 Therefore, Shenkar et al. believe friction is more suitable for social science research because it captures the dynamic, relational, and political nature of cross-cultural interaction better than Hofstede-based or Kogut and Singh-style distance measures. 
 
-b. Tung and Verbeke (2010) stress that there are ten common assumptions on cultural
-distance dimensions in applied IB and management research. These assumptions are
-categorized into three categories of limitations. What are the three categories of
-limitations and what do these types of limitations imply? Provide for each type of
-limitation an example.
+b. Tung and Verbeke (2010) stress that there are ten common assumptions on cultural distance dimensions in applied IB and management research. These assumptions are categorized into three categories of limitations. What are the three categories of limitations and what do these types of limitations imply? Provide for each type of limitation an example.
 W9-4
 Tung and Verbeke classify the ten assumptions into three types of limitations.
 Type I: Generic limitations. These are broad problems in cultural distance research, especially the assumptions of symmetry and stability. Symmetry means assuming that distance from country A to B is the same as from B to A. For example, German managers may adjust differently in the U.S. than American managers in Germany. Stability means assuming cultural scores do not change over time, which ignores cultural evolution. 
 Type II: Remediable weaknesses in empirical design. These can be improved through better research design. Examples include assuming a linear relationship between cultural distance and outcomes, or assuming cultural distance clearly causes entry mode or performance. For instance, higher cultural distance may not always reduce performance; it may sometimes create learning or complementarities. 
 Type III: Weaknesses requiring reconceptualization. These are deeper theoretical problems. They include assuming national cultures are homogeneous, cultural distance is always negative, firm characteristics do not matter, and dimensions can be aggregated into one index. For example, China or the U.S. may contain major regional and ethnic cultural variation. 
  
-c. How does the cultural friction metaphor project by Shenkar et al. (2008) address (or not
-address) each of these three types of limitations? Explain your answer carefully and
-ensure that you relate the theory on the friction metaphor to each category of limitations
-in a structured manner.
+c. How does the cultural friction metaphor project by Shenkar et al. (2008) address (or not address) each of these three types of limitations? Explain your answer carefully and ensure that you relate the theory on the friction metaphor to each category of limitations in a structured manner.
 W9-3
 Shenkar et al.’s cultural friction metaphor addresses many, but not all, of Tung and Verbeke’s limitations.
 For Type I generic limitations, friction improves on distance because it rejects simple symmetry and stability. Friction is relational: the experience of one actor meeting another may differ depending on power, identity, and interests. This helps explain why country A’s experience with country B may not equal country B’s experience with country A. Friction also treats culture as dynamic because cultural interaction changes over time through responses and counter-responses. 
@@ -40,36 +32,29 @@ For Type III reconceptualization weaknesses, friction is especially useful. It d
 -----------------------
 Question 2:
 
-Foreign investment has been an engine of growth worldwide and has been a major subject of
-research for IB scholars.
-a. Li and Filer (2007) discuss two different governance systems related to ordering. What are
-these two governance systems? Make sure you explain each of them carefully.
+Foreign investment has been an engine of growth worldwide and has been a major subject of research for IB scholars.
+a. Li and Filer (2007) discuss two different governance systems related to ordering. What are these two governance systems? Make sure you explain each of them carefully.
 W11-2
 Li and Filer (2007) discuss two governance systems: public ordering and private ordering. These systems explain how economic exchanges and investments are protected in different institutional environments.
 Public ordering refers to a governance system based on formal rules, laws, and institutions. In this system, governments create transparent laws, independent courts interpret those laws, and the state enforces contracts fairly and efficiently. Investors rely mainly on public legal institutions to protect property rights and resolve disputes. This type of governance is common in rule-based economies, especially many Western countries. Because investors trust legal institutions, they are more willing to engage in indirect or portfolio investment, where they have less direct control over assets. 
 Private ordering exists when public legal systems are weak, inefficient, or unreliable. In such environments, investors cannot depend fully on courts or formal institutions. Instead, they rely on private relationships, networks, personal control, and informal arrangements to protect their investments. Li and Filer argue that direct investment (FDI) is preferred in these environments because investors maintain greater managerial control and can privately safeguard their interests. This system is more relation-based and often appears in countries with weak rule of law. 
  
-b. Buckley et al. (2007) discuss two general principles of the theory of FDI (cf., Buckley and
-Casson, 1976). What are these two principles?
+b. Buckley et al. (2007) discuss two general principles of the theory of FDI (cf., Buckley and Casson, 1976). What are these two principles?
 W4-3
 
 Buckley et al. (2007), building on Buckley and Casson (1976), explain that the theory of FDI rests on two major principles.
 The first principle is that firms internalize imperfect or missing external markets when doing so is more efficient than using the market. External markets for knowledge, technology, or intermediate products are often inefficient because of transaction costs, uncertainty, and risks of opportunism. Firms therefore choose FDI to internalize these transactions within the organization. Instead of licensing or exporting, firms establish subsidiaries abroad to maintain control over their proprietary knowledge and reduce transaction costs. Internalization continues until the costs of organizing activities internally become greater than the benefits. 
 The second principle is that firms choose locations that minimize the overall costs of operations. Firms invest in countries that provide advantages such as market size, natural resources, lower production costs, strategic assets, or geographic proximity. Buckley et al. explain that firms may engage in market-seeking, resource-seeking, or efficiency-seeking FDI depending on the benefits offered by host countries. Thus, FDI location decisions are shaped by both internalization advantages and location advantages.
  
-c. Delios and Beamish (1999) argue that the institutional environment influence foreign
-investment ownership.
-1.	In their opinion, how does institutional environment influence foreign 
-investment ownership and why? (15 points)
+c. Delios and Beamish (1999) argue that the institutional environment influence foreign investment ownership.
+1.	In their opinion, how does institutional environment influence foreign investment ownership and why? (15 points)
 W4-1
 Delios and Beamish (1999) argue that the institutional environment strongly influences foreign investment ownership because institutions affect transaction risks, property-right protection, and the efficiency of governance structures.
 In countries with strong institutional environments, such as effective legal systems and secure property rights, foreign firms are more likely to take higher ownership positions. Strong institutions reduce uncertainty and transactional hazards, allowing firms to operate with greater confidence and control. Foreign investors feel safer transferring proprietary assets and knowledge because contracts can be enforced effectively and opportunism is less likely. 
 In contrast, weak institutional environments increase uncertainty and risk. Poor legal protection, political instability, or weak contract enforcement create hazards for foreign investors. Under these conditions, firms may prefer lower ownership levels or joint ventures because local partners provide local knowledge, legitimacy, and assistance in navigating institutional challenges. Shared ownership also reduces exposure to risk and resource commitment. Delios and Beamish therefore argue that ownership choice is not determined only by transaction-cost considerations, but also by the broader institutional environment of the host country. 
 Their findings suggest that institutional and experience variables are often more important than purely transactional variables in explaining ownership structures.
 
-2.	Given that ownership is a form of governance in IJVs - are Delios and Beamish's 
-arguments in line with Devarakonda et al.'s (2021) statements on the effect of 
-institutions on governance design? Please explain why (not)? (10 points)
+2.	Given that ownership is a form of governance in IJVs - are Delios and Beamish's arguments in line with Devarakonda et al.'s (2021) statements on the effect of institutions on governance design? Please explain why (not)? (10 points)
 W4-1 & 4-5
 Yes, Delios and Beamish’s arguments are generally consistent with Devarakonda et al. (2021). Both studies argue that institutions influence governance design because institutions shape transaction costs, uncertainty, and dispute-resolution mechanisms.
 Delios and Beamish focus on ownership structure as a governance mechanism in IJVs. They argue that stronger institutional environments encourage higher ownership because firms trust the institutional system to protect investments and enforce contracts. Weak institutions increase uncertainty and therefore encourage governance structures that share risk or rely on local partners. 
