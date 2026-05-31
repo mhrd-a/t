@@ -510,3 +510,375 @@ For international marketing strategists, this research provides a decision-makin
 Another key contribution of the study is its reinforcement of the central role of market share as a predictor of profitability in international markets. Market share not only reflects competitive strength but also enhances bargaining power, brand equity, and operational efficiency. Strategic levers that are associated with market share, such as new product development, pricing, and advertising, thus have dual significance, as they influence both the current revenue base and long-term profitability. This insight is particularly valuable for firms seeking to scale in competitive global markets, as it emphasizes the need to grow share early in the market entry process in order to reap sustainable financial rewards.
 In conclusion, the work of Szymanski, Bharadwaj, and Varadarajan (1993) presents a sophisticated and empirically supported model that advances our understanding of how internal strategies and external industry dynamics interact to shape firm performance in international markets. The concepts of strategic levers and industry drivers provide a practical yet theoretically grounded framework for multinational firms to formulate and evaluate their marketing strategies. By demonstrating the generalizability of these relationships across Western markets, the study lends empirical support to the value of standardization in similar national environments while still acknowledging the need for context sensitivity in dissimilar ones. For scholars, the study offers a valuable integrative model for future research. For practitioners, it provides actionable insights into the factors that matter most when competing in global markets.
 
+
+
+
+============================================
+
+1. Terry Clark (1990)	 Week 2-10:	1
+National Character	1
+2. Harrell and Kiefer (1993)	 Week 3-14:	2
+Market Portfolio Matrix	2
+3. Wills, Samli and Jacobs (1991)	 Week 3-15:	3
+Construct	3
+4. Jain’s (1989)	 Week 4-17:	4
+Standardization Framework	4
+5. NA	 Week ?-??	5
+Standardization VS Localization controversy	5
+6. Samiee and Roth (1992)	 Week 4-18:	6
+Empirical Globalization/Standardization	6
+10. Seifert and Ford (1989)	 Week 5-21:	7
+Standardization Exporters	7
+11. Robert Bartels’ (1968)	 Week 1-1:	8
+Comparative Marketing- International Marketing	8
+12. Warren Keegan (1972)	 Week 1- 2:	9
+World Of Clusters	9
+13. Albaum and Peterson (1984)	 Week 2-7:	10
+Methodology: Empirical study in response to Cavusgil, 1981	10
+14. NA	 Week ?-??	11
+Methodology-pseudo-etic -Green and White, 1976 Week 2-9	11
+15. Cavusgil, Zou and Naidu (1993)	 Week 5-22:	13
+Contingency	13
+16. Szymanski, Bharadwaj and Varadarajan (1993)	 Week 5-23:	14
+Standardization vs. Adaptation	14
+
+--------------------------
+1. What is the concept of national character that was presented by Terry Clark (1990)?  Explain its relevance for international marketing theory development.
+1. Terry Clark (1990)		Week 2-10:
+National Character
+International Marketing and National Character: A Review and Proposal for an Integrative Theory
+Terry Clark, 1990
+
+Terry Clark (1990) defines national character as the pattern of enduring personality characteristics found among the populations of nations. This concept suggests that individuals within a nation exhibit common psychological traits that influence behavior in predictable ways. Unlike cross-cultural studies, which focus on specific differences, national character aims to provide a broader, integrative framework for understanding national behavioral patterns.
+
+Concept of National Character
+Clark explores two major approaches to studying national character:
+1.	Culture-Centered Approach: Focuses on how social structures, institutions, and collective behaviors shape national traits. Early anthropologists like Ruth Benedict emphasized the role of culture in shaping personality.
+2.	Personality-Centered Approach: Views national character as an aggregation of individual personality traits, analyzed through modal personality studies that measure common traits within national populations.
+Clark also distinguishes between theoretical and empirical approaches in national character research. Hofstede’s cultural dimensions (e.g., power distance, uncertainty avoidance) serve as an example of an empirical approach, while Inkeles and Levinson’s framework on authority, self-perception, and conflict resolution represents a theoretical perspective.
+
+The Hofstede's Cultural Dimensions:
+1. Power Distance Index (PDI): Degree of acceptance of unequal power distribution.
+2. Individualism vs. Collectivism (IDV): Emphasis on individual achievements vs. group loyalty.
+3. Masculinity vs. Femininity (MAS): Value placed on assertiveness vs. relationships and quality of life.
+4. Uncertainty Avoidance Index (UAI): Comfort with ambiguity and change.
+5. Long vs. Short-Term Orientation (LTO): Focus on future-oriented goals vs. immediate results.
+6. Indulgence vs. Restraint (IVR): Degree of freedom in gratifying desires and enjoying life.
+
+Relevance to International Marketing Theory
+Clark argues that national character is crucial for understanding consumer behavior and strategic decision-making in international marketing:
+1.	Consumer Behavior:
+o	National character influences brand preferences, risk tolerance, and decision-making styles.
+o	High uncertainty avoidance cultures (e.g., Japan) prefer well-established brands and detailed product information.
+o	Individualistic societies (e.g., the U.S.) favor self-expressive brands, while collectivist cultures (e.g., China) respond better to group-oriented marketing.
+2.	Strategic Decision-Making:
+o	Managers’ decision-making styles reflect their national character (e.g., hierarchical vs. participative leadership).
+o	Firms can adjust negotiation tactics and organizational structures based on national decision-making traits.
+3.	Global Marketing Strategy:
+o	National character helps determine whether firms should standardize or adapt their strategies across markets.
+o	It provides a theoretical foundation for balancing global efficiency with local responsiveness.
+
+Conclusion
+Clark proposes national character as a unifying framework that enhances cross-cultural marketing research. It offers insights into consumer segmentation, branding strategies, and managerial decision-making, making it an essential tool for international marketing. 
+
+
+
+--------------------------
+2. Describe the multinational market portfolio matrix presented by Harrell and Kiefer (1993).  Draw the matrix and explain the scales that are used to place the various country opportunities on the grid.  How is this helpful for international marketers?
+2. Harrell and Kiefer (1993)		Week 3-14:
+Market Portfolio Matrix 
+Multinational Market Portfolios in Global Strategy Development
+Harrell and Kiefer, 1993
+
+The Multinational Market Portfolio Matrix presented by Harrell and Kiefer (1993) is a strategic planning tool that helps multinational corporations assess and prioritize country markets based on two key dimensions: Country Attractiveness and Competitive Strength.
+
+The Matrix Structure
+The matrix is a 3x3 grid with Country Attractiveness on the vertical axis and Competitive Strength on the horizontal axis:
+1.	Country Attractiveness refers to the potential of a market and is measured using:
+o	Market size (average annual sales)
+o	Market growth rate (compound sales increase over ten years)
+o	Government regulations (price controls, trade barriers, local content requirements)
+o	Economic and political stability (inflation rates, trade balance, political risk)
+2.	Competitive Strength evaluates the company’s ability to succeed in a particular country and includes:
+o	Market share (current position in the industry)
+o	Product fit (alignment of products with market needs)
+o	Contribution margin (profitability per unit)
+o	Market support (presence of distribution networks, advertising, service support)
+
+Strategic Implications
+Each cell in the matrix suggests a different strategy:
+•	Invest/Grow (Top-left): High attractiveness, low competitive strength → Investment is needed to build market position.
+•	Dominate/Diversify (Top-right): High attractiveness, high competitive strength → Key markets for expansion and competitive dominance.
+•	Selective Investment (Middle): Moderate attractiveness and/or strength → Requires careful investment choices.
+•	Harvest/Divest (Bottom-right): Low attractiveness, high competitive strength → Focus on short-term profitability or exit strategy.
+•	Avoid (Bottom-left): Low attractiveness, low strength → Generally not worth investment.
+
+Importance for International Marketers
+This matrix helps international marketers by:
+1.	Prioritizing markets based on data-driven analysis.
+2.	Balancing risks and resources for global expansion.
+3.	Aligning competitive strategies with country-specific conditions.
+4.	Guiding investment decisions to maximize long-term profitability.
+This structured approach ensures that firms target the right markets while optimizing strategic resource allocation globally.
+
+
+--------------------------
+3. What are the important constructs presented in the article by Wills, Samli and Jacobs (1991) for use in theory development pertaining to developing global products and marketing strategies?  Describe the interrelationships between these constructs that were suggested by the authors.  Why is this important for theory development for international marketing academics?
+3. Wills, Samli and Jacobs (1991)		Week 3-15:
+Construct
+Developing Global Products and Marketing Strategies: A Construct and a Research Agenda
+James Wills, A. Coskun Samli, Laurence Jacobs, 1991
+
+The article by Wills, Samli, and Jacobs (1991) presents four key constructs for developing global products and marketing strategies: involvement, learning, culture, and diffusion. These constructs provide a framework for multinational corporations to balance globalization and localization effectively.
+1.	Involvement: Consumer involvement varies across cultures and product categories. In high-involvement purchases, consumers actively seek information and evaluate options, while low-involvement purchases involve routine decisions. The authors argue that multinational firms must assess the level of consumer involvement in different cultures to tailor marketing strategies accordingly.
+2.	Learning: The learning process determines how consumers acquire knowledge about products and make purchase decisions. The authors differentiate between fast-learning and slow-learning products, emphasizing that cultural factors influence how quickly a product is adopted. In some cultures, word-of-mouth and social networks play a critical role in learning, whereas, in others, mass media is more effective.
+3.	Culture: The study highlights the distinction between high-context and low-context cultures (Hall, 1976). High-context cultures rely on personal relationships and implicit communication, whereas low-context cultures depend more on direct, explicit messaging. Understanding these cultural differences allows firms to craft appropriate marketing messages and distribution strategies.
+4.	Diffusion: Product adoption rates vary across cultures. Some societies are more receptive to innovations, while others are resistant due to traditional values. The diffusion process is influenced by cultural norms, consumer behavior, and the presence of opinion leaders. The authors suggest that firms should identify whether a market is rapid or slow in adopting new products to adjust their market entry and communication strategies.
+
+Interrelationships Between These Constructs
+The authors propose that learning and involvement interact at the micro level, influencing individual consumer decisions, while culture and diffusion operate at the macro level, shaping broader market dynamics. For instance, a high-involvement product in a high-context culture may require extensive personal selling and influencer engagement. Similarly, a slow-learning product in a market with rapid diffusion potential may require educational marketing strategies to accelerate adoption.
+
+Significance for International Marketing Theory Development
+This framework is crucial for international marketing academics because it integrates consumer behavior with global strategic decision-making. Instead of viewing globalization and localization as opposing forces, the model suggests a hybrid approach—"be global, act local"—to optimize both efficiency and market responsiveness. It encourages scholars to move beyond rigid standardization-localization debates and focus on how consumer behavior models can inform strategic adjustments across cultures.
+By applying this model, researchers can develop more nuanced theories that consider cultural diversity, consumer psychology, and market dynamics, leading to better predictions of product success in international markets. 
+
+--------------------------
+4. Describe Jain’s (1989) framework for determining marketing program standardization.  How is it helpful for international marketing theory development?
+4. Jain’s (1989)		Week 4-17:
+Standardization Framework
+Standardization of International Marketing Strategy: Some Research Hypotheses
+Subhash C. Jain, 1989
+
+Jain’s (1989) framework for determining marketing program standardization presents a structured approach to evaluating the feasibility of standardizing international marketing strategies. It considers five key factors:
+1.	Target Market – Standardization is more practical in markets that exhibit economic similarities, such as OECD countries, where purchasing power, consumer behavior, and lifestyle patterns are more homogeneous. Jain also highlights intermarket segmentation, suggesting that companies should focus on consumer segments rather than entire national markets.
+2.	Market Position – The degree of standardization depends on market maturity, competition, and cultural compatibility. Markets at different stages of development require adjustments in product design and marketing approach. The presence of competition may necessitate customization to gain an advantage.
+3.	Nature of the Product – Standardization is more feasible for industrial and high-tech products than consumer goods, particularly non-durables that are influenced by cultural preferences. A standardized positioning strategy across markets can also facilitate marketing consistency.
+4.	Environmental Factors – Differences in physical (e.g., climate), legal, and political environments can restrict standardization. However, a similar marketing infrastructure, such as distribution networks and media availability, increases the feasibility of standardization.
+5.	Organizational Factors – Internal company dynamics, including corporate orientation (ethnocentric vs. geocentric), headquarters-subsidiary relationships, and decision-making authority, affect the ability to implement a standardized marketing program.
+
+Contribution to International Marketing Theory
+Jain’s framework contributes to international marketing theory by offering a nuanced view of standardization. Instead of a binary approach (standardization vs. customization), it introduces a continuum where different aspects of the marketing mix can be standardized to varying degrees based on contextual factors. His propositions help clarify when and why standardization is feasible, offering a foundation for empirical research and guiding multinational corporations in strategic decision-making.
+By integrating economic, competitive, cultural, and organizational considerations, Jain advances a comprehensive perspective that remains relevant in contemporary global marketing discussions.
+
+
+--------------------------
+5. Why has there been such controversy over the issue of standardization and localization in the international marketing literature over the years?  What are arguments presented for each side of the argument?  Which side do you agree with and explain the logic of your choice?
+5. NA		Week ?-??
+Standardization VS Localization controversy
+
+Due to the conceptual nature of many of the studies over the past few decades, there has been controversy over the issue of standardization and localization in the international marketing literature (Levitt, 1983; Walters, 1986). Each side of the argument has presented arguments as follows:
+
+On the one side of the argument, proponents of marketing program adaptation believe that countries are different considerably in terms of their economic, cultural, political, legal systems, values and lifestyles (Buzzell, 1968; Wind, 1986). Therefore, decision regarding marketing approaches and programs is a local issue and it should be different from market to market. Walters (1986) argued that we cannot conclude that a universal approach to marketing will be successful because most of the research conducted on program standardization solely focused on Western Europe. Wind (1988) stated that standardized products are overdesigned for some countries and under designed for others, which eventually kills the spirit of entrepreneurship because there is no need to creativity. 
+
+On the other side of the argument, standardization proponents emphasizes that standardized marketing programs can reduce costs because of economies of scales. According to Levitt (1983), the spread of communications, and transportation have led to globalization of market. Therefore, standardization is an efficient strategy though which firms can reduce their costs and gain competitive advantage. Others also found that media spillover, and consumer mobility facilitate the standardization. Furthermore, Bartel (1968) by introducing comparative marketing argued that marketing technology may have universal validity and applicability which can be advantageous for marketers. Keegan (1972) also argued that clustering markets (similarities in group and differences between groups) help standardization of the global marketing program. 
+
+Nevertheless, there is also another group of researchers who have proposed that neither complete standardization nor complete adaptation is optimal and depend on many factors. This perspective which is called contingency, tries to identify factors which impact the desirable standardization. For example, according to Jain (1989), the degree of standardization or adaptation depends on many internal and external factors, such as the target market, the market position, the nature of the product, organizational factors, and the environment. Jain argued that standardization and adaptation exist on a continuum and standardizing decision is not a dichotomous one between standardization and customization.  Samiee and Roth (1992) also provides support for contingency perspective by arguing that standardization does not necessarily lead to better performance and firms need to consider market coverage, and capacity utilization. Wills, Samli & Jacobs (1991) proposed the use of the following two matrices, e.g. learning vs. involvement and cultural context vs. diffusion process to identify the relevant driven factors. Additionally, some studies have shown that standardization/adaptation decision depend on the nature of product and can be different for product, price and promotion. For example, Seifert and Ford (1989) found that US exporters which exported industrial products used standardization approach for their product and price but adaptation for their promotion. Cavusgil and Naidu (1993) found that consumer products need greater adaptation in both product and promotion depending on internal and external factors. 
+ Since international markets are dynamic and complex, I personally support the contingency approach because there is no one best strategy that fits all of the multinationals’ situations. Based on a firm's products, resources, characteristics, and a market's specific circumstances and characteristics, the optimal strategy is to find the best strategy which is suitable. For example, by taking advantage of economies of scale through standardization, firms have the opportunity to maximize profits while meeting the unique requirements of local markets through adaptation. 
+
+--------------------------
+6. What empirical study did Samiee and Roth (1992) undertake?  What did they measure?  What were their findings?  What do you think that this means for international marketing strategy development?
+6. Samiee and Roth (1992)		Week 4-18:
+Empirical Globalization/Standardization
+
+The Influence of Global Marketing Standardization on Performance
+Saeed Samiee and Kendall Roth, 1992
+
+Samiee and Roth (1992) conducted an empirical study to examine the relationship between global marketing standardization and business performance. They surveyed business units (BUs) operating in global industries to assess whether firms that emphasize standardization achieve superior financial performance compared to those that do not.
+
+Measurement:
+The study measured global standardization using an index with five components: standardized customer needs, product awareness, product technology, competitive marketing strategies, and purchasing practices. The BUs were classified into "high standardization" and "low standardization" groups based on their index scores. Financial performance was assessed using multiple indicators: return on investment (ROI), return on assets (ROA), and sales growth, as well as total sales, international sales, and international operating profit.
+
+Findings:
+The study found no significant difference in financial performance between firms that emphasized global standardization and those that did not. While firms pursuing standardization benefitted from market coverage, capacity utilization, and niche high-priced products, these advantages did not translate into superior financial outcomes. This suggests that the expected cost savings and competitive benefits from standardization do not necessarily lead to higher profitability.
+
+Implications for International Marketing Strategy:
+The findings challenge the assumption that global standardization guarantees superior financial performance. While standardization may offer operational efficiencies and consistency across markets, firms must consider market-specific factors such as consumer preferences, technological changes, and competitive dynamics. For international marketing strategy, this implies that a balanced approach—incorporating both standardization and localization—may be more effective than a one-size-fits-all strategy.
+
+
+--------------------------
+10. What did Seifert and Ford (1989) find in their study of U.S. industrial exporters? How does this add to the international marketing literature?
+10. Seifert and Ford (1989)		Week 5-21:
+Standardization Exporters
+
+Are Exporting Firms Modifying Their Product, Pricing and Promotion Policies?
+Bruce Seifert, John Ford, 1989
+
+Seifert and Ford (1989) investigated the extent to which U.S. industrial exporters modify their product, pricing, and promotion policies when entering foreign markets. Their study surveyed firms in industries such as electrical equipment, machine tools, food processing, and fluid power to determine whether exporters follow a standardized or adaptive approach.
+The key findings of the study include:
+1.	Product Standardization: The majority of firms (71%) exported the same products they sold domestically, making only minimal modifications. When changes were made, they were primarily in packaging, warranties, service, and product features.
+2.	Pricing Policies: Most firms maintained standardized pricing strategies, with export prices largely mirroring domestic prices. Additionally, 87.4% of exporters invoiced in U.S. dollars, reinforcing this pricing consistency.
+3.	Promotional Expenditures: Exporting firms generally spent significantly less on promotion for foreign markets compared to their domestic campaigns. The study found that small firms and those with less export experience allocated particularly low promotional budgets.
+4.	Firm Size and Experience Impact: Larger firms and those with more export experience tended to invest more in promotional efforts. Additionally, firms that allocated equal or higher promotional budgets for exports reported greater satisfaction with their export performance.
+5.	Export Performance Satisfaction: On average, firms were neutral regarding their satisfaction with export performance. However, larger firms, experienced exporters, and those investing in foreign market promotions were more satisfied.
+
+This study contributes to the international marketing literature by emphasizing that industrial exporters predominantly follow a standardized marketing strategy, contrasting with arguments advocating for greater adaptation to foreign market conditions. While prior research often examined multinational corporations, Seifert and Ford focused specifically on exporters, highlighting differences in marketing mix strategies between these two types of firms. Their findings suggest that insufficient promotional investment may hinder export success, indicating a need for exporters to reassess their international marketing approaches.
+
+
+
+--------------------------
+11. Why was Robert Bartels’ (1968) article comparing international markets to domestic markets so important for international marketing theory development?  What does he mean by comparative marketing?
+11. Robert Bartels’ (1968)		Week 1-1:
+Comparative Marketing- International Marketing
+Are Domestic and International Marketing Dissimilar?
+Robert Bartels, 1968
+
+Robert Bartels' (1968) article "Are Domestic and International Marketing Dissimilar?" was a pivotal contribution to international marketing theory. It challenged the prevailing notion that domestic and international marketing were fundamentally different, advocating instead for an integrated theoretical approach that recognized both similarities and contextual differences.
+
+Bartels' significance lies in his structured view of how new marketing concepts develop, which he described as progressing through three stages: identification, conceptualization, and assimilation. First, a new idea is identified and labeled, even before it is fully understood. Second, it undergoes conceptualization, where its meaning and theoretical framework take shape. Finally, it reaches assimilation, where it becomes integrated into the established body of thought. His work contributed to this process by pushing international marketing beyond a mere comparison of differences and towards a more systematic theoretical foundation.
+
+A key concept introduced by Bartels is comparative marketing, which he defined not merely as a side-by-side comparison of domestic and international marketing but as an analytical approach that examines the relationship between marketing practices and their respective environments. He argued that marketing consists of both a technical process—involving universal principles such as pricing, branding, and distribution—and a social process, which varies based on cultural, economic, and institutional differences. Through this comparative framework, he emphasized that marketing strategies must be adapted to different national environments rather than being seen as entirely distinct disciplines.
+Bartels also introduced the idea of an inter-national environment, where national policies and trade regulations create additional constraints that influence marketing decisions. This highlighted the need for businesses and academics to integrate international factors into broader marketing theories rather than treating them as separate entities.
+
+By introducing comparative marketing and emphasizing the structured evolution of marketing thought, Bartels laid the groundwork for future research that integrates international marketing into general marketing theory. His work remains influential in shaping how multinational corporations and scholars analyze global markets today.
+
+What Is Marketing? In general, marketing connotes a process of two-fold character: technical and social.
+
+
+Concepts of Marketing and 
+Their Related Elements
+
+--------------------------
+12. What does Warren Keegan (1972) refer to when he describes the world of clusters of national market environments?  What are the major dimensions of a national market environment?  Why was this important for international marketing theory development?
+12. Warren Keegan (1972)		Week 1- 2:
+World Of Clusters
+
+A Conceptual Framework for Multinational Marketing
+Warren J. Keegan, 1972
+
+Warren Keegan (1972) describes the world as consisting of clusters of national market environments, emphasizing that each national market is unique. He argues that multinational marketing involves managing these distinct national markets, which differ in various environmental factors. This perspective underscores the complexity of international marketing, as companies must navigate diverse conditions while identifying similarities to optimize their strategies.
+The major dimensions of a national market environment, as outlined by Keegan, include:
+1.	Market Characteristics – Factors such as market size, growth rate, buyer behavior, cultural influences, and economic development stages.
+2.	Marketing Institutions – Distribution systems, media availability, and marketing services like research and advertising.
+3.	Industry Conditions – Competitive landscape, technological development, and market saturation.
+4.	Legal Environment – Laws, regulations, tariffs, and trade policies that impact business operations.
+5.	Resources – Availability and cost of labor, financial capital, and infrastructure.
+6.	Financial Environment – Exchange rates, balance of payments, and financial regulations.
+7.	Political Environment – Government stability, policies, and regulatory frameworks affecting market entry and business operations.
+
+Keegan's framework was important for the development of international marketing theory because it highlighted the need for a structured approach to multinational marketing. His conceptual model helped businesses assess how to adapt products, pricing, and promotional strategies based on national market conditions. By identifying clusters of similar markets, companies could streamline operations, optimize resource allocation, and balance standardization with local adaptation.
+This approach also laid the foundation for later research on globalization and market segmentation. It shifted the focus from a purely domestic perspective to a more integrated, strategic outlook on international expansion, emphasizing the interplay between global efficiency and local responsiveness.
+
+The Multinational Market Management Process
+1.	Environmental Analysis
+2.	Strategic Planning
+3.	Structure
+
+
+--------------------------
+13. What is the importance of the literature review presented by Albaum and Peterson (1984)?  What did they examine, what were their recommendations, and why is this important for international marketing theory development?
+13. Albaum and Peterson (1984)		Week 2-7:
+
+Methodology: Empirical study in response to Cavusgil, 1981
+(Response to Cavusgil and Nevin (1981) for focused assessment of specific issues in IM in that only empirical research is considered.)
+
+Empirical Research in International Marketing: 1976-1982
+Gerald Albaum, Robert Peterson, 1984
+
+Certainly! Here’s a revised version that directly responds to each question:
+
+1.	What is the importance of the literature review?
+The literature review by Albaum and Peterson (1984) is significant because it systematically evaluates the state of empirical research in international marketing from 1976 to 1982. Their work highlights critical gaps in the field, particularly the lack of theoretical integration, methodological inconsistencies, and an overreliance on U.S.-centric studies. By identifying these weaknesses, their review serves as a foundation for future research, calling for more rigorous, theory-driven, and internationally relevant studies.
+
+2.	What did they examine?
+Albaum and Peterson examined empirical research in international marketing by analyzing published studies to determine what topics were being researched and how the research was conducted. They categorized studies into key areas such as multinational corporations, foreign direct investment, consumer behavior, and elements of the marketing mix. Additionally, they assessed research methodologies, including data collection techniques, sampling designs, and analytical approaches, finding that many studies were exploratory, lacked cross-cultural validation, and were methodologically inconsistent.
+
+3.	What were their recommendations?
+The authors recommended several improvements to advance international marketing research. They called for the standardization of key constructs and definitions to enhance comparability across studies. They also advocated for better research designs, including improved sampling techniques, greater use of probability sampling, and the adoption of more sophisticated analytical methods. Furthermore, they emphasized the need for cross-cultural validation of theories, collaboration among researchers across countries, and a shift from isolated studies to systematic, programmatic research efforts.
+
+4.	Why is this important for international marketing theory development?
+Their work is crucial for international marketing theory development because it addresses fundamental weaknesses in the field and provides a roadmap for more rigorous, conceptually sound research. By advocating for greater theoretical integration, standardized constructs, and improved methodologies, their review helps establish a more solid empirical foundation for international marketing studies. This contributes to the creation of generalizable theories that better reflect the complexities of global markets, ultimately enhancing both academic knowledge and practical applications in international business. 
+
+
+--------------------------
+14. Often when scales are developed to measure important psychological constructs in marketing, questionnaires are developed, these scales are back-translated, and they are used with respondents in other countries.  Why is this so problematic?
+14. NA		Week ?-??
+Methodology-pseudo-etic -Green and White, 1976 Week 2-9
+
+Presents some of the most fundamental considerations that are involved in studies of cross-national consumer behavior and suggests methods of incorporating them into research projects. The development of the instrument is generally followed by translation in the languages. In the process of "back translation", a bilingual translator is assigned to translate the instrument to a different language, then another bilingual translator is assigned to translate the instrument back to the original language. Through this process, researchers can identify any discrepancies. The main goal of this process is to create a culture-free instrument which is called as etic. However, if researchers cannot identify potential discrepancies, Pseudo etic trap occurs which can be defined as taking a measure of construct which only fits in a market or a nation and applying them in different market or nation. This problem also mentioned by Albaum and Peterson (1984) review paper, and they found many international marketing researchers fall into this trap. 
+
+Green and White (1976) show that back translation process has following challenges that need to be addressed:
+First, they mentioned “functional equivalence. To elaborate, there are different functions for some product in different nations or markets. For example, the primary use of bicycles is different in China and the US. In China bicycle is used as a way of transportation, while in the US, it is used as a recreational tool. Therefore, researchers should consider this difference when using an instrument as it can lead to different interpretations and responses to questionnaire items.
+
+They also mentioned the problem of lack of conceptual equivalency as concepts may have different meanings across cultures or may have no direct equivalents. For example, there are many meanings associated with some words in English such as "tough," which makes it hard to translate precisely to another language. Additionally, sometimes a term does not exist in another language. For example, we do not have any equivalent word for “already” in Farsi.
+
+Furthermore, after addressing the two problems that was mentioned in the previous paragraphs, it is essential to look at the phenomena being studied through measurements. Several methods can be used to measure responses such as Likert-type scales. However, cultures can differ in their response patterns. For instance, extreme responses may be less common in some cultures, which consequently make answers hard to compare. Therefore, researchers should select samples that are comparable in each nation (sample selection).
+Therefore, if an emic model is taken and then be treated as an etic model, “pseudo-etic" trap occurs. Even though Etic measurement is usually a goal, it may not be a sustainable or credible method for long-term use as its credibility may decrease. Therefore, it is best to develop individualized emic models for each market or culture under investigation.
+
+Therefore, "Back translation" is not considered an effective solution because Instrument equivalence, or construct equivalence, raises the question of whether the instrument captures the phenomena being studied accurately. To overcome translation problems, Werner and Campbell (1973) suggest constructing the instrument in all nations included in the study and then incorporating items from each nation. However, we do not know whether the instrument (construct used) actually captures the phenomena that is being studied. Back Translation” resolves some of these problems but we argue that it is NOT an effective way. We can consider alternative approaches such as decentering or personally engaging with each market is crucial.
+
+For using the decentering approach, develop constructs specific to each market or nation and to conduct qualitative research to modify emic scales to make them relevant to the different nations and market. To ensure accurate measurement, researchers should take the time to understand and adapt scales to the context. Despite its time-consuming and expensive nature, this approach is useful for overcoming the limitations of back translation approaches and enhance the validity and reliability of international marketing research.
+
+
+--------------------------
+Methodological Considerations in Cross-National Consumer Research
+Robert T. Green, Phillip D. White, 1976
+
+The use of back-translated questionnaires to measure psychological constructs in marketing across different countries is problematic for several reasons, as discussed in Green and White’s (1976) paper on methodological considerations in cross-national consumer research.
+1.	Lack of Conceptual Equivalence
+Many psychological constructs are culturally bound, meaning they may not have the same meaning or significance in different countries. A questionnaire developed in one country might assume a universal understanding of a concept, but cultural differences could lead to varying interpretations. For example, cognitive consistency theories assume individuals avoid holding conflicting attitudes, but this assumption may not hold across all cultures.
+
+2.	Translation Issues and Linguistic Nuances
+Even with back-translation, meaning can be lost due to linguistic differences. Some words or phrases do not have direct equivalents in other languages. For example, idiomatic expressions or culture-specific terms may not translate accurately, leading to misinterpretation by respondents.
+
+3.	Functional Equivalence Problems
+Psychological constructs may serve different roles in different cultures. For instance, the perception of shopping as a social activity versus a chore varies across countries. If a survey question assumes a specific function for an activity that differs across cultures, the responses may reflect these functional differences rather than the psychological construct being measured.
+
+4.	Instrument Equivalence Challenges
+The same questionnaire may not effectively capture the intended construct in different cultural contexts. Some measurement scales developed in one country may not be valid in another, leading to unreliable or non-comparable data. This can result in misleading conclusions if cross-national differences are incorrectly attributed to psychological factors rather than methodological inconsistencies.
+
+5.	Sampling and Social Desirability Bias
+Cultural differences in social norms can also influence how respondents answer questions. Some cultures may be more prone to socially desirable responses, making direct comparisons across countries difficult.
+In sum, while back-translation is a common technique, it does not fully resolve the deeper methodological challenges of ensuring conceptual, functional, and instrument equivalence in cross-national research.
+
+
+
+--------------------------
+15. Describe the framework for product and promotion adaptation presented by Cavusgil, Zou and Naidu (1993).  What did they find when they empirically tested the framework?  How is this important for international marketing strategists?
+15. Cavusgil, Zou and Naidu (1993)		Week 5-22:
+Contingency
+
+Product and Promotion Adaptation in Export Ventures: An Empirical Investigation
+S. Tamer Cavusgil, Shaoming Zou, G. M. Naidu, 1993
+
+The framework for product and promotion adaptation presented by Cavusgil, Zou, and Naidu (1993) is based on a contingency perspective, integrating company, product/industry, and export market characteristics to determine the degree of adaptation in export ventures. Their conceptual framework distinguishes product adaptation into two stages: adaptation upon entry (driven by mandatory legal and technical requirements) and adaptation after entry (discretionary adjustments based on market conditions). Promotion adaptation is divided into positioning, packaging/labeling, and promotional approach.
+Empirical testing of this framework, using in-depth interviews with export marketing managers, confirmed that the degree of adaptation is influenced by various factors. The key findings include:
+1.	Company Characteristics: Firms with greater international experience were more likely to adapt their products and promotional strategies. Additionally, higher export sales goals led to greater adaptation.
+2.	Product and Industry Characteristics: High technology industries tended to standardize more, while culturally specific and unique products required higher adaptation.
+3.	Export Market Characteristics: Competitive intensity in the export market increased the likelihood of adaptation, while similarity in legal regulations reduced the need for product modifications. Market familiarity with the product also reduced the degree of adaptation.
+
+For international marketing strategists, these findings underscore the importance of a tailored approach rather than a one-size-fits-all standardization strategy. Managers must assess internal capabilities, industry demands, and market-specific factors when deciding on product and promotion adaptations to enhance competitiveness and market acceptance.
+
+
+--------------------------
+16. What are the strategic levers and industry drivers presented by Szymanski, Bharadwaj and Varadarajan (1993), and why are they important for international marketing theory development?
+16. Szymanski, Bharadwaj and Varadarajan (1993)		Week 5-23:
+Standardization vs. Adaptation
+
+Standardization vs. Adaptation of International Marketing Strategy: An Empirical Investigation
+David M. Szymanski, Sundar G. Bharadwaj, P. Rajan Varadarajan, 1993
+
+Szymanski, Bharadwaj, and Varadarajan (1993) present strategic levers and industry drivers as key determinants of business performance in international marketing. These concepts are central to understanding how businesses can standardize or adapt their marketing strategies across different national markets.
+
+Strategic Levers
+Strategic levers refer to competitive strategy variables that a business controls and that influence performance. The study identifies several key strategic levers:
+1.	Quality of Customer Service – Impacts both market share and profitability.
+2.	Product Quality – Higher quality is associated with better market performance.
+3.	Product Line Breadth – A broader product range can help capture diverse customer needs.
+4.	New Product Development – Essential for maintaining competitive advantage.
+5.	R&D Expenditures – Important for innovation but may have long-term payoffs rather than immediate gains.
+6.	Vertical Integration (Backward and Forward) – Can provide cost efficiencies but also increases operational complexity.
+7.	Marketing Mix Investments (Advertising, Promotion, Sales Force Expenditures) – Impact brand recognition, customer acquisition, and retention.
+8.	Pricing Strategy – Influences both market share and profitability, depending on competitive dynamics.
+9.	Shared Customers, Marketing Programs, and Facilities – Can create synergies that improve cost efficiency.
+Industry Drivers
+Industry drivers are external factors related to industry structure that influence business performance. The study highlights:
+1.	Market Growth Rate – Growing markets tend to offer higher profit opportunities.
+2.	Industry Concentration – Higher concentration may lead to market power, allowing firms to influence prices and profitability.
+
+Importance for International Marketing Theory Development
+The findings contribute significantly to international marketing theory by demonstrating that the relationships between strategic levers, industry drivers, and performance generalize across Western markets (U.S., U.K., Canada, Western Europe). This suggests that multinational firms can achieve efficiency and consistency by standardizing their strategic resource mix. However, adaptation may still be necessary based on specific firm characteristics and market conditions.
+
+The study supports the notion that standardization can be beneficial in similar economic, political, and cultural markets, aligning with global marketing theories that advocate for a balance between standardization and adaptation. It also highlights that market share is a strong predictor of profitability, reinforcing the importance of competitive positioning in international marketing.
+Thus, this research provides a framework for firms to decide on standardization vs. adaptation by identifying key levers they can control and external industry factors they must consider.
+
+
